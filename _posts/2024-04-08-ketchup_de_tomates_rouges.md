@@ -2,7 +2,7 @@
 layout: recipe
 title: "KETCHUP DE TOMATES ROUGES"
 description: "KETCHUP Maison Delicieux"
-category: "A cote"
+category: "Boulangerie"
 emoji: "🍲"
 date: 2024-01-15
 prep_time: "20 min"
@@ -19,9 +19,10 @@ ingredients:
   - 1 cuillère à thé de poivre 
   - 1 boîte (28 oz) de pêches avec jus (sirop) 
   - 1 boîte (28 oz) de poires avec jus (sirop) 
-- 4 cuillères à soupe d'épices mélangées à marinades 
-- 1 gros piment rouge 
+  - 4 cuillères à soupe d'épices mélangées à marinades 
+  - 1 gros piment rouge 
 steps:
   - Couper les légumes et les fruits en petits cubes 
   - Faire bouillir à feu doux pendant 3 heures 
   - Ajouter le sucre et laisser bouillir 1 heure supplémentaire 
+---
