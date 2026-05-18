@@ -5,9 +5,9 @@ title: Home
 
 <section class="hero">
   <div class="hero-inner">
-    <span class="hero-label">Welcome to</span>
-    <h1>Mom's Kitchen</h1>
-    <p>Recipes made with love, handwritten memories, and a little magic passed down through the years.</p>
+    <span class="hero-label">Bienvenue sur </span>
+    <h1>Les Recettes de Maman</h1>
+    <p>Des recettes faites avec amour, des souvenirs écrits à la main et un peu de magie transmise au fil des ans.</p>
     <a href="{{ '/recipes/' | relative_url }}" class="btn btn-primary">Browse All Recipes</a>
   </div>
 </section>
@@ -16,7 +16,7 @@ title: Home
 
   <!-- Featured Recipes -->
   <section>
-    <h2 class="section-title">Recent Recipes</h2>
+    <h2 class="section-title">Nouelles Ajouts</h2>
     <hr class="section-rule" />
     <div class="recipe-grid">
       {% assign recent = site.posts | slice: 0, 6 %}
@@ -26,13 +26,13 @@ title: Home
       {% endfor %}
     </div>
     <div style="text-align: center; margin-top: 3rem;">
-      <a href="{{ '/recipes/' | relative_url }}" class="btn btn-primary">See All Recipes →</a>
+      <a href="{{ '/recipes/' | relative_url }}" class="btn btn-primary">Voir toute les Recettes →</a>
     </div>
   </section>
 
   <!-- Categories -->
   <section style="margin-top: 4rem;">
-    <h2 class="section-title">Browse by Category</h2>
+    <h2 class="section-title">Naviguer par Categorie</h2>
     <hr class="section-rule" />
     <div class="category-filter" style="justify-content: flex-start;">
       {% assign categories = site.category_list %}
