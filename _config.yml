@@ -1,7 +1,7 @@
 title: "Mom's Kitchen"
 description: "Recipes made with love, passed down through generations."
-baseurl: ""
-url: ""
+baseurl: "/recette_maman"
+url: "https://freaky2112.github.io"
 
 author:
   name: "Mom"

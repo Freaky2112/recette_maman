@@ -8,7 +8,7 @@ title: Home
     <span class="hero-label">Welcome to</span>
     <h1>Mom's Kitchen</h1>
     <p>Recipes made with love, handwritten memories, and a little magic passed down through the years.</p>
-    <a href="/recipes/" class="btn btn-primary">Browse All Recipes</a>
+    <a href="{{ '/recipes/' | relative_url }}" class="btn btn-primary">Browse All Recipes</a>
   </div>
 </section>
 
@@ -26,7 +26,7 @@ title: Home
       {% endfor %}
     </div>
     <div style="text-align: center; margin-top: 3rem;">
-      <a href="/recipes/" class="btn btn-primary">See All Recipes →</a>
+      <a href="{{ '/recipes/' | relative_url }}" class="btn btn-primary">See All Recipes →</a>
     </div>
   </section>
 
@@ -37,7 +37,7 @@ title: Home
     <div class="category-filter" style="justify-content: flex-start;">
       {% assign categories = site.category_list %}
       {% for cat in categories %}
-        <a href="/recipes/?category={{ cat | uri_escape }}" class="filter-btn">{{ cat }}</a>
+        <a href="{{ '/recipes/' | relative_url }}?category={{ cat | uri_escape }}" class="filter-btn">{{ cat }}</a>
       {% endfor %}
     </div>
   </section>
