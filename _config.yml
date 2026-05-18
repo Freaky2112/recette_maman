@@ -1,0 +1,46 @@
+title: "Mom's Kitchen"
+description: "Recipes made with love, passed down through generations."
+baseurl: ""
+url: ""
+
+author:
+  name: "Mom"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /recipes/:title/
+
+# Collections
+collections:
+  recipes:
+    output: true
+    permalink: /recipes/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "recipe"
+  - scope:
+      path: ""
+      type: "recipes"
+    values:
+      layout: "recipe"
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Categories
+category_list:
+  - Breakfast
+  - Soups & Stews
+  - Mains
+  - Sides
+  - Desserts
+  - Baking
+  - Drinks

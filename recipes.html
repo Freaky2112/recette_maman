@@ -1,0 +1,35 @@
+---
+layout: default
+title: All Recipes
+permalink: /recipes/
+---
+
+<div class="page-wrapper">
+  <h2 class="section-title">All Recipes</h2>
+  <hr class="section-rule" />
+
+  <!-- Category Filter -->
+  <div class="category-filter" id="category-filter">
+    <button class="filter-btn active" data-category="all">All</button>
+    {% assign categories = site.category_list %}
+    {% for cat in categories %}
+      <button class="filter-btn" data-category="{{ cat }}">{{ cat }}</button>
+    {% endfor %}
+  </div>
+
+  <!-- Recipe Grid -->
+  <div class="recipe-grid" id="recipe-grid">
+    {% for post in site.posts %}
+      <div class="recipe-card-wrapper" data-category="{{ post.category }}">
+        {% assign recipe = post %}
+        {% include recipe-card.html %}
+      </div>
+    {% endfor %}
+  </div>
+
+  {% if site.posts.size == 0 %}
+    <p style="text-align:center; color: var(--text-light); margin-top: 3rem;">
+      No recipes yet — check back soon! 🍲
+    </p>
+  {% endif %}
+</div>

@@ -1,0 +1,64 @@
+---
+layout: default
+---
+
+<div class="recipe-hero">
+  <span class="recipe-tagline">{{ page.category }}</span>
+  <h1>{{ page.title }}</h1>
+  {% if page.description %}
+    <p style="color: var(--parchment); max-width: 600px; margin: 0.75rem auto 0; opacity: 0.85;">{{ page.description }}</p>
+  {% endif %}
+</div>
+
+<div class="recipe-meta-bar">
+  {% if page.prep_time %}
+  <div><strong>{{ page.prep_time }}</strong> Prep</div>
+  {% endif %}
+  {% if page.cook_time %}
+  <div><strong>{{ page.cook_time }}</strong> Cook</div>
+  {% endif %}
+  {% if page.servings %}
+  <div><strong>{{ page.servings }}</strong> Servings</div>
+  {% endif %}
+  {% if page.difficulty %}
+  <div><strong>{{ page.difficulty }}</strong> Difficulty</div>
+  {% endif %}
+</div>
+
+<div class="recipe-layout">
+
+  <aside>
+    <div class="ingredients-box">
+      <h2>Ingredients</h2>
+      <ul>
+        {% for item in page.ingredients %}
+          <li>{{ item }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+  </aside>
+
+  <div class="instructions">
+    <h2>Instructions</h2>
+
+    {% assign steps = content | split: '<hr />' %}
+    {% if page.steps %}
+      {% for step in page.steps %}
+        <div class="step">
+          <div class="step-number">{{ forloop.index }}</div>
+          <div class="step-text">{{ step }}</div>
+        </div>
+      {% endfor %}
+    {% else %}
+      {{ content }}
+    {% endif %}
+
+    {% if page.notes %}
+    <div class="recipe-notes">
+      <h4>📝 Mom's Notes</h4>
+      <p>{{ page.notes }}</p>
+    </div>
+    {% endif %}
+  </div>
+
+</div>

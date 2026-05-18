@@ -1,0 +1,45 @@
+---
+layout: default
+title: Home
+---
+
+<section class="hero">
+  <div class="hero-inner">
+    <span class="hero-label">Welcome to</span>
+    <h1>Mom's Kitchen</h1>
+    <p>Recipes made with love, handwritten memories, and a little magic passed down through the years.</p>
+    <a href="/recipes/" class="btn btn-primary">Browse All Recipes</a>
+  </div>
+</section>
+
+<div class="page-wrapper">
+
+  <!-- Featured Recipes -->
+  <section>
+    <h2 class="section-title">Recent Recipes</h2>
+    <hr class="section-rule" />
+    <div class="recipe-grid">
+      {% assign recent = site.posts | slice: 0, 6 %}
+      {% for post in recent %}
+        {% assign recipe = post %}
+        {% include recipe-card.html %}
+      {% endfor %}
+    </div>
+    <div style="text-align: center; margin-top: 3rem;">
+      <a href="/recipes/" class="btn btn-primary">See All Recipes →</a>
+    </div>
+  </section>
+
+  <!-- Categories -->
+  <section style="margin-top: 4rem;">
+    <h2 class="section-title">Browse by Category</h2>
+    <hr class="section-rule" />
+    <div class="category-filter" style="justify-content: flex-start;">
+      {% assign categories = site.category_list %}
+      {% for cat in categories %}
+        <a href="/recipes/?category={{ cat | uri_escape }}" class="filter-btn">{{ cat }}</a>
+      {% endfor %}
+    </div>
+  </section>
+
+</div>

@@ -1,0 +1,22 @@
+<article class="recipe-card">
+  <a href="{{ recipe.url | relative_url }}">
+    {% if recipe.image %}
+      <img class="card-image" src="{{ recipe.image | relative_url }}" alt="{{ recipe.title }}" />
+    {% else %}
+      <div class="card-image-placeholder">
+        {{ recipe.emoji | default: '🍽️' }}
+      </div>
+    {% endif %}
+  </a>
+  <div class="card-body">
+    <span class="card-category">{{ recipe.category }}</span>
+    <h3 class="card-title"><a href="{{ recipe.url | relative_url }}">{{ recipe.title }}</a></h3>
+    {% if recipe.description %}
+      <p style="font-size: 0.9rem; color: var(--text-light);">{{ recipe.description | truncate: 90 }}</p>
+    {% endif %}
+    <div class="card-meta">
+      {% if recipe.prep_time %}<span>⏱ {{ recipe.prep_time }}</span>{% endif %}
+      {% if recipe.servings %}<span>👥 {{ recipe.servings }} servings</span>{% endif %}
+    </div>
+  </div>
+</article>
