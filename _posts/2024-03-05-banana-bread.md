@@ -1,30 +1,32 @@
 ---
 layout: recipe
-title: "Banana Bread"
-description: "Moist, tender, and perfectly sweet. The riper the bananas, the better."
-category: "Baking"
+title: "Pain aux Bananes"
+description: "Moelleux, tendre et parfaitement sucré. Plus les bananes sont mûres, meilleur c'est."
+category: "Boulangerie"
 emoji: "🍌"
 date: 2024-03-05
 prep_time: "10 min"
 cook_time: "65 min"
 servings: 10
-difficulty: Easy
+difficulty: Facile
 ingredients:
-  - 3 very ripe bananas, mashed
-  - ⅓ cup melted butter
-  - ¾ cup sugar
-  - 1 large egg, beaten
-  - 1 tsp vanilla extract
-  - 1 tsp baking soda
-  - Pinch of salt
-  - 1½ cups all-purpose flour
-  - Optional — ½ cup walnuts or chocolate chips
+  - 3 bananes très mûres, écrasées
+  - 75 g de beurre fondu
+  - 150 g de sucre
+  - 1 grand œuf, battu
+  - 1 c. à café d'extrait de vanille
+  - 1 c. à café de bicarbonate de soude
+  - Une pincée de sel
+  - 190 g de farine tout usage
+  - Facultatif — 75 g de noix ou de pépites de chocolat
 steps:
-  - Preheat oven to 350°F (175°C). Grease a 9×5 inch loaf pan.
-  - Mash the ripe bananas in a large bowl until smooth. Stir in the melted butter.
-  - Mix in the sugar, egg, and vanilla. Sprinkle in the baking soda and salt; stir to combine.
-  - Gently fold in the flour until just combined — don't overmix or the bread will be tough. Fold in walnuts or chocolate chips if using.
-  - Pour into the prepared loaf pan. Bake for 60–65 minutes, until a toothpick inserted in the center comes out clean.
-  - Let cool in the pan for 10 minutes, then turn out onto a wire rack. Best sliced the next day, if you can wait.
-notes: "Freeze overripe bananas in their peels — thaw them when you're ready to bake and they mash beautifully. Mom always doubled this recipe because one loaf never lasted past the afternoon."
+  - Préchauffer le four à 175 °C. Beurrer un moule à cake de 23 × 13 cm.
+  - Écraser les bananes mûres dans un grand bol jusqu'à obtenir une purée lisse. Incorporer le beurre fondu.
+  - Ajouter le sucre, l'œuf et la vanille. Saupoudrer le bicarbonate et le sel ; bien mélanger.
+  - Incorporer délicatement la farine jusqu'à ce qu'elle soit tout juste mélangée — ne pas trop travailler la pâte, le pain serait dur. Ajouter les noix ou les pépites de chocolat si désiré.
+  - Verser dans le moule préparé. Cuire 60 à 65 minutes, jusqu'à ce qu'un cure-dent inséré au centre en ressorte propre.
+  - Laisser refroidir dans le moule 10 minutes, puis démouler sur une grille. Encore meilleur tranché le lendemain, si vous pouvez attendre.
+notes: "Congelez les bananes trop mûres dans leur peau — décongelez-les au moment de cuisiner et elles s'écrasent à la perfection. Maman doublait toujours la recette parce qu'un seul pain ne durait jamais jusqu'au soir."
+---
+r."
 ---
