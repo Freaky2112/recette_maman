@@ -28,5 +28,4 @@ steps:
   - Laisser refroidir dans le moule 10 minutes, puis démouler sur une grille. Encore meilleur tranché le lendemain, si vous pouvez attendre.
 notes: "Congelez les bananes trop mûres dans leur peau — décongelez-les au moment de cuisiner et elles s'écrasent à la perfection. Maman doublait toujours la recette parce qu'un seul pain ne durait jamais jusqu'au soir."
 ---
-r."
----
+

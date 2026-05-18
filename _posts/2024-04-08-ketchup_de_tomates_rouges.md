@@ -10,18 +10,18 @@ cook_time: "2 h"
 servings: 6
 difficulty: Facile
 ingredients:
-- 15 Tomates rouges 
-- 1 Pied de céleri 
-- 6 Oignons 
-- 6 Tasses de sucre 
-- 4 Tasses de vinaigre blanc 
-- 1 cuillère à table de gros sel 
-- 1 cuillère à thé de poivre 
-- 1 boîte (28 oz) de pêches avec jus (sirop) 
-- 1 boîte (28 oz) de poires avec jus (sirop) 
+  - 15 Tomates rouges 
+  - 1 Pied de céleri 
+  - 6 Oignons 
+  - 6 Tasses de sucre 
+  - 4 Tasses de vinaigre blanc 
+  - 1 cuillère à table de gros sel 
+  - 1 cuillère à thé de poivre 
+  - 1 boîte (28 oz) de pêches avec jus (sirop) 
+  - 1 boîte (28 oz) de poires avec jus (sirop) 
 - 4 cuillères à soupe d'épices mélangées à marinades 
 - 1 gros piment rouge 
 steps:
-1. Couper les légumes et les fruits en petits cubes 
-2. Faire bouillir à feu doux pendant 3 heures 
-3. Ajouter le sucre et laisser bouillir 1 heure supplémentaire 
+  - Couper les légumes et les fruits en petits cubes 
+  - Faire bouillir à feu doux pendant 3 heures 
+  - Ajouter le sucre et laisser bouillir 1 heure supplémentaire 
