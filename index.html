@@ -1,22 +1,21 @@
 ---
 layout: default
-title: Home
+title: Accueil
 ---
 
 <section class="hero">
   <div class="hero-inner">
-    <span class="hero-label">Bienvenue sur </span>
-    <h1>Les Recettes de Maman</h1>
-    <p>Des recettes faites avec amour, des souvenirs écrits à la main et un peu de magie transmise au fil des ans.</p>
-    <a href="{{ '/recipes/' | relative_url }}" class="btn btn-primary">Voir toutes les Recettes</a>
+    <span class="hero-label">Bienvenue dans</span>
+    <h1>La Cuisine de Maman</h1>
+    <p>Des recettes faites avec amour, des souvenirs écrits à la main, et une petite magie transmise à travers les années.</p>
+    <a href="{{ '/recettes/' | relative_url }}" class="btn btn-primary">Voir toutes les recettes</a>
   </div>
 </section>
 
 <div class="page-wrapper">
 
-  <!-- Featured Recipes -->
   <section>
-    <h2 class="section-title">Nouelles Ajouts</h2>
+    <h2 class="section-title">Recettes récentes</h2>
     <hr class="section-rule" />
     <div class="recipe-grid">
       {% assign recent = site.posts | slice: 0, 6 %}
@@ -26,18 +25,17 @@ title: Home
       {% endfor %}
     </div>
     <div style="text-align: center; margin-top: 3rem;">
-      <a href="{{ '/recipes/' | relative_url }}" class="btn btn-primary">Voir toute les Recettes →</a>
+      <a href="{{ '/recettes/' | relative_url }}" class="btn btn-primary">Toutes les recettes →</a>
     </div>
   </section>
 
-  <!-- Categories -->
   <section style="margin-top: 4rem;">
-    <h2 class="section-title">Naviguer par Categorie</h2>
+    <h2 class="section-title">Parcourir par catégorie</h2>
     <hr class="section-rule" />
     <div class="category-filter" style="justify-content: flex-start;">
       {% assign categories = site.category_list %}
       {% for cat in categories %}
-        <a href="{{ '/recipes/' | relative_url }}?category={{ cat | uri_escape }}" class="filter-btn">{{ cat }}</a>
+        <a href="{{ '/recettes/' | relative_url }}?category={{ cat | uri_escape }}" class="filter-btn">{{ cat }}</a>
       {% endfor %}
     </div>
   </section>

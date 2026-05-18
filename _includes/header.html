@@ -1,12 +1,12 @@
 <header class="site-header">
   <nav class="nav-inner">
     <a href="{{ '/' | relative_url }}" class="site-title">
-      Mom <span>Cuisine</span>
+      La Cuisine de <span>Maman</span>
     </a>
     <ul class="nav-links">
-      <li><a href="{{ '/' | relative_url }}" {% if page.url == '/' %}class="active"{% endif %}>Acceuil</a></li>
-      <li><a href="{{ '/recipes/' | relative_url }}" {% if page.url contains '/recipes/' %}class="active"{% endif %}>Recettes</a></li>
-      <li><a href="{{ '/about/' | relative_url }}" {% if page.url == '/about/' %}class="active"{% endif %}>Apropos</a></li>
+      <li><a href="{{ '/' | relative_url }}" {% if page.url == '/' %}class="active"{% endif %}>Accueil</a></li>
+      <li><a href="{{ '/recettes/' | relative_url }}" {% if page.url contains '/recettes/' %}class="active"{% endif %}>Recettes</a></li>
+      <li><a href="{{ '/a-propos/' | relative_url }}" {% if page.url == '/a-propos/' %}class="active"{% endif %}>À propos</a></li>
     </ul>
   </nav>
 </header>

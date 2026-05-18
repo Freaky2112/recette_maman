@@ -1,46 +1,27 @@
-title: "Mom's Kitchen"
-description: "Recipes made with love, passed down through generations."
+title: "La Cuisine de Maman"
+description: "Des recettes faites avec amour, transmises de génération en génération."
 baseurl: "/recette_maman"
 url: "https://freaky2112.github.io"
 
 author:
-  name: "Mom"
+  name: "Maman"
 
 # Build settings
 markdown: kramdown
 highlighter: rouge
-permalink: /recipes/:title/
-
-# Collections
-collections:
-  recipes:
-    output: true
-    permalink: /recipes/:name/
-
-# Defaults
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "recipe"
-  - scope:
-      path: ""
-      type: "recipes"
-    values:
-      layout: "recipe"
+permalink: /recettes/:title/
 
 # Plugins
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# Categories
+# Catégories
 category_list:
-  - Dejeuner
-  - Soupes & Ragouts
-  - Plats Principaux
-  - A cote
+  - Petit-déjeuner
+  - Soupes & Mijotés
+  - Plats principaux
+  - Accompagnements
   - Desserts
-  - Pains
+  - Pâtisserie
   - Boissons

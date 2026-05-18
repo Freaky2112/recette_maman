@@ -1,11 +1,11 @@
 ---
 layout: default
-title: About
-permalink: /about/
+title: À propos
+permalink: /a-propos/
 ---
 
 <div class="page-wrapper">
-  <h2 class="section-title">About This Kitchen</h2>
+  <h2 class="section-title">À propos de cette cuisine</h2>
   <hr class="section-rule" />
 
   <div class="about-layout">
@@ -16,16 +16,16 @@ permalink: /about/
     </div>
     <div class="about-text">
       <p>
-        Every recipe here has a story. Some are scrawled on yellowed index cards, some live in the margins of old cookbooks, and some exist only in memory — until now.
+        Chaque recette ici a une histoire. Certaines sont griffonnées sur de vieilles fiches jaunies, d'autres vivent dans les marges de livres de cuisine usés, et d'autres encore n'existent que dans les souvenirs — jusqu'à maintenant.
       </p>
       <p>
-        This little corner of the internet is a love letter to a lifetime of cooking. From hearty Sunday stews to the lightest birthday cake you've ever tasted, these are the dishes that shaped a family.
+        Ce petit coin d'internet est une lettre d'amour à toute une vie passée en cuisine. Du pot-au-feu du dimanche au gâteau d'anniversaire le plus léger que vous ayez jamais goûté, ce sont les plats qui ont façonné une famille.
       </p>
       <p>
-        Nothing here is fussy. You won't find molecular gastronomy or ingredients you can't pronounce. Just honest, delicious food made from scratch, the way it was always meant to be.
+        Rien ici n'est compliqué. Vous ne trouverez pas de cuisine moléculaire ni d'ingrédients introuvables. Juste une cuisine honnête et délicieuse, faite maison, comme elle l'a toujours été.
       </p>
       <p>
-        Pull up a chair. There's always room at Mom's table. 🌿
+        Approchez une chaise. Il y a toujours de la place à la table de Maman. 🌿
       </p>
     </div>
   </div>

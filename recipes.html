@@ -1,23 +1,21 @@
 ---
 layout: default
-title: All Recipes
-permalink: /recipes/
+title: Toutes les recettes
+permalink: /recettes/
 ---
 
 <div class="page-wrapper">
-  <h2 class="section-title">Toute Recettes</h2>
+  <h2 class="section-title">Toutes les recettes</h2>
   <hr class="section-rule" />
 
-  <!-- Category Filter -->
   <div class="category-filter" id="category-filter">
-    <button class="filter-btn active" data-category="all">All</button>
+    <button class="filter-btn active" data-category="all">Toutes</button>
     {% assign categories = site.category_list %}
     {% for cat in categories %}
       <button class="filter-btn" data-category="{{ cat }}">{{ cat }}</button>
     {% endfor %}
   </div>
 
-  <!-- Recipe Grid -->
   <div class="recipe-grid" id="recipe-grid">
     {% for post in site.posts %}
       <div class="recipe-card-wrapper" data-category="{{ post.category }}">
@@ -29,7 +27,7 @@ permalink: /recipes/
 
   {% if site.posts.size == 0 %}
     <p style="text-align:center; color: var(--text-light); margin-top: 3rem;">
-      No recipes yet — check back soon! 🍲
+      Aucune recette pour l'instant — revenez bientôt ! 🍲
     </p>
   {% endif %}
 </div>

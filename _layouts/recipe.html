@@ -12,10 +12,10 @@ layout: default
 
 <div class="recipe-meta-bar">
   {% if page.prep_time %}
-  <div><strong>{{ page.prep_time }}</strong> Preparation</div>
+  <div><strong>{{ page.prep_time }}</strong> Préparation</div>
   {% endif %}
   {% if page.cook_time %}
-  <div><strong>{{ page.cook_time }}</strong> Cuission</div>
+  <div><strong>{{ page.cook_time }}</strong> Cuisson</div>
   {% endif %}
   {% if page.servings %}
   <div><strong>{{ page.servings }}</strong> Portions</div>
@@ -29,7 +29,7 @@ layout: default
 
   <aside>
     <div class="ingredients-box">
-      <h2>Ingredients</h2>
+      <h2>Ingrédients</h2>
       <ul>
         {% for item in page.ingredients %}
           <li>{{ item }}</li>
@@ -41,7 +41,6 @@ layout: default
   <div class="instructions">
     <h2>Préparation</h2>
 
-    {% assign steps = content | split: '<hr />' %}
     {% if page.steps %}
       {% for step in page.steps %}
         <div class="step">
