@@ -21,7 +21,7 @@ layout: default
   <div><strong>{{ page.servings }}</strong> Portions</div>
   {% endif %}
   {% if page.difficulty %}
-  <div><strong>{{ page.difficulty }}</strong> Difficulte</div>
+  <div><strong>{{ page.difficulty }}</strong> Difficulté</div>
   {% endif %}
 </div>
 
@@ -39,7 +39,7 @@ layout: default
   </aside>
 
   <div class="instructions">
-    <h2>Instructions</h2>
+    <h2>Préparation</h2>
 
     {% assign steps = content | split: '<hr />' %}
     {% if page.steps %}
@@ -55,7 +55,7 @@ layout: default
 
     {% if page.notes %}
     <div class="recipe-notes">
-      <h4>📝 Mom's Notes</h4>
+      <h4>📝 Notes de Maman</h4>
       <p>{{ page.notes }}</p>
     </div>
     {% endif %}

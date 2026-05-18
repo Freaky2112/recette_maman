@@ -37,10 +37,10 @@ plugins:
 
 # Categories
 category_list:
-  - Breakfast
-  - Soups & Stews
-  - Mains
-  - Sides
+  - Dejeuner
+  - Soupes & Ragouts
+  - Plats Principaux
+  - A cote
   - Desserts
-  - Baking
-  - Drinks
+  - Pains
+  - Boissons
