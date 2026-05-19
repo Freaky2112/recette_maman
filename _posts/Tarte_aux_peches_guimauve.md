@@ -1,3 +1,15 @@
+---
+layout: recipe
+title: "MUFFINS AU ALL BRAN"
+description: "Muffins au All Bran"
+category: "Desserts"
+emoji: "🥫"
+date: 2024-03-05
+prep_time: "10 min"
+cook_time: "15-20 min"
+servings: 12
+difficulty: Facile
+ingredients:
 # TARTE AUX PÊCHES À LA GUIMAUVE
 
 ## Ingrédients
