@@ -3,7 +3,12 @@
     <a href="{{ '/' | relative_url }}" class="site-title">
       La Cuisine de <span>Maman</span>
     </a>
-    <ul class="nav-links">
+    <button class="nav-toggle" id="nav-toggle" aria-label="Ouvrir le menu" aria-expanded="false">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+    <ul class="nav-links" id="nav-links">
       <li><a href="{{ '/' | relative_url }}" {% if page.url == '/' %}class="active"{% endif %}>Accueil</a></li>
       <li><a href="{{ '/recettes/' | relative_url }}" {% if page.url contains '/recettes/' %}class="active"{% endif %}>Recettes</a></li>
       <li><a href="{{ '/a-propos/' | relative_url }}" {% if page.url == '/a-propos/' %}class="active"{% endif %}>À propos</a></li>
