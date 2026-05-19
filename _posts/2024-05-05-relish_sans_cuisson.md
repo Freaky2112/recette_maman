@@ -3,7 +3,7 @@ layout: recipe
 title: "RELISH SANS CUISSON"
 description: "Relish Simple et Rapide."
 category: "Accompagnements"
-emoji: "🍌"
+emoji: "🥫"
 date: 2024-03-05
 prep_time: "10 min"
 cook_time: "65 min"

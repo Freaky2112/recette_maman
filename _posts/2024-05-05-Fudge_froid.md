@@ -3,7 +3,7 @@ layout: recipe
 title: "FUDGE FROID"
 description: "FUDGE FROID"
 category: "Desserts"
-emoji: "🍲"
+emoji: "🥫"
 date: 2024-01-15
 prep_time: "25 min"
 cook_time: "1 h"

@@ -3,7 +3,7 @@ layout: recipe
 title: "GÂTEAU AU ZUCCHINI"
 description: "GÂTEAU AU ZUCCHINI"
 category: "Desserts"
-emoji: "🍲"
+emoji: "🍰"
 date: 2024-01-15
 prep_time: "35 mins"
 cook_time: "50-60 mins"

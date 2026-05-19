@@ -3,7 +3,7 @@ layout: recipe
 title: "GÂTEAU AU CHOCOLAT"
 description: "GÂTEAU AU CHOCOLAT"
 category: "Desserts"
-emoji: "🍲"
+emoji: "🎂"
 date: 2024-01-15
 prep_time: "20 mins"
 cook_time: "40-45 mins"
