@@ -14,6 +14,13 @@
     {% if recipe.description %}
       <p style="font-size: 0.9rem; color: var(--text-light);">{{ recipe.description | truncate: 90 }}</p>
     {% endif %}
+    {% if recipe.tags and recipe.tags.size > 0 %}
+      <div class="card-tags">
+        {% for tag in recipe.tags %}
+          <span class="card-tag">{{ tag }}</span>
+        {% endfor %}
+      </div>
+    {% endif %}
     <div class="card-meta">
       {% if recipe.prep_time %}<span>⏱ {{ recipe.prep_time }}</span>{% endif %}
       {% if recipe.servings %}<span>👥 {{ recipe.servings }} portions</span>{% endif %}

@@ -8,6 +8,7 @@ permalink: /recettes/
   <h2 class="section-title">Toutes les recettes</h2>
   <hr class="section-rule" />
 
+  <!-- Filtre principal (catégories) -->
   <div class="category-filter" id="category-filter">
     <button class="filter-btn active" data-category="all">Toutes</button>
     {% assign categories = site.category_list %}
@@ -16,9 +17,19 @@ permalink: /recettes/
     {% endfor %}
   </div>
 
+  <!-- Filtre secondaire (sous-catégories / tags) -->
+  <div class="subcategory-filter" id="subcategory-filter" style="display:none;">
+    <span class="subcategory-label">Affiner :</span>
+    <button class="sub-btn active" data-tag="all">Tout</button>
+    <!-- Les boutons sont injectés dynamiquement par JS selon la catégorie choisie -->
+  </div>
+
+  <!-- Grille de recettes -->
   <div class="recipe-grid" id="recipe-grid">
     {% for post in site.posts %}
-      <div class="recipe-card-wrapper" data-category="{{ post.category }}">
+      <div class="recipe-card-wrapper"
+           data-category="{{ post.category }}"
+           data-tags="{{ post.tags | join: ',' }}">
         {% assign recipe = post %}
         {% include recipe-card.html %}
       </div>

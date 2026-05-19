@@ -10,8 +10,6 @@ document.addEventListener('DOMContentLoaded', function () {
       toggle.classList.toggle('open', isOpen);
       toggle.setAttribute('aria-expanded', isOpen);
     });
-
-    // Close menu when a link is clicked
     navLinks.querySelectorAll('a').forEach(link => {
       link.addEventListener('click', () => {
         navLinks.classList.remove('open');
@@ -19,8 +17,6 @@ document.addEventListener('DOMContentLoaded', function () {
         toggle.setAttribute('aria-expanded', false);
       });
     });
-
-    // Close menu when clicking outside
     document.addEventListener('click', function (e) {
       if (!toggle.contains(e.target) && !navLinks.contains(e.target)) {
         navLinks.classList.remove('open');
@@ -30,35 +26,83 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   }
 
-  // ── Category filter (recipes page) ─────────────
-  const filterBtns = document.querySelectorAll('#category-filter .filter-btn');
-  const cards = document.querySelectorAll('.recipe-card-wrapper');
+  // ── Two-level category + subcategory filter ─────
+  const categoryBtns = document.querySelectorAll('#category-filter .filter-btn');
+  const subFilter    = document.getElementById('subcategory-filter');
+  const cards        = document.querySelectorAll('.recipe-card-wrapper');
 
-  if (filterBtns.length === 0) return;
+  if (categoryBtns.length === 0) return;
 
-  const urlParams = new URLSearchParams(window.location.search);
-  const urlCategory = urlParams.get('category');
-  if (urlCategory) {
-    filterBtns.forEach(b => b.classList.remove('active'));
-    const matching = [...filterBtns].find(b => b.dataset.category === urlCategory);
-    if (matching) {
-      matching.classList.add('active');
-      filterCards(urlCategory);
-    }
-  }
+  let activeCategory = 'all';
+  let activeTag      = 'all';
 
-  filterBtns.forEach(btn => {
+  // ── Category click ──────────────────────────────
+  categoryBtns.forEach(btn => {
     btn.addEventListener('click', function () {
-      filterBtns.forEach(b => b.classList.remove('active'));
+      categoryBtns.forEach(b => b.classList.remove('active'));
       this.classList.add('active');
-      filterCards(this.dataset.category);
+      activeCategory = this.dataset.category;
+      activeTag = 'all';
+      updateSubfilter(activeCategory);
+      applyFilters();
     });
   });
 
-  function filterCards(category) {
+  // ── Build & show subcategory buttons ───────────
+  function updateSubfilter(category) {
+    if (category === 'all') {
+      subFilter.style.display = 'none';
+      return;
+    }
+
+    // Collect all tags from cards matching this category
+    const tags = new Set();
     cards.forEach(card => {
-      card.style.display =
-        (category === 'all' || card.dataset.category === category) ? 'block' : 'none';
+      if (card.dataset.category === category) {
+        const cardTags = card.dataset.tags.split(',').map(t => t.trim()).filter(Boolean);
+        cardTags.forEach(t => tags.add(t));
+      }
+    });
+
+    // Hide subfilter if no tags exist for this category
+    if (tags.size === 0) {
+      subFilter.style.display = 'none';
+      return;
+    }
+
+    // Build buttons
+    subFilter.innerHTML = '<span class="subcategory-label">Affiner :</span>';
+    const allBtn = makeSubBtn('Tout', 'all', true);
+    subFilter.appendChild(allBtn);
+
+    tags.forEach(tag => {
+      subFilter.appendChild(makeSubBtn(tag, tag, false));
+    });
+
+    subFilter.style.display = 'flex';
+  }
+
+  function makeSubBtn(label, tag, isActive) {
+    const btn = document.createElement('button');
+    btn.className = 'sub-btn' + (isActive ? ' active' : '');
+    btn.dataset.tag = tag;
+    btn.textContent = label;
+    btn.addEventListener('click', function () {
+      subFilter.querySelectorAll('.sub-btn').forEach(b => b.classList.remove('active'));
+      this.classList.add('active');
+      activeTag = this.dataset.tag;
+      applyFilters();
+    });
+    return btn;
+  }
+
+  // ── Apply both filters ──────────────────────────
+  function applyFilters() {
+    cards.forEach(card => {
+      const catMatch = activeCategory === 'all' || card.dataset.category === activeCategory;
+      const cardTags = card.dataset.tags.split(',').map(t => t.trim());
+      const tagMatch = activeTag === 'all' || cardTags.includes(activeTag);
+      card.style.display = (catMatch && tagMatch) ? 'block' : 'none';
     });
   }
 
