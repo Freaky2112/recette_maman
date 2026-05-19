@@ -31,4 +31,4 @@ step:
   - Ajouter le liquide. Battre jusqu'à consistance lisse.
   - Verser dans un moule de 8 pouces.
   - Cuire à 350°F de 40 à 45 minutes.
-  ---
+---
