@@ -7,7 +7,7 @@ emoji: "🍌"
 date: 2024-03-05
 prep_time: "10 min"
 cook_time: "65 min"
-servings: 10
+servings: 
 difficulty: Facile
 ingredients:
   - 8 Tomates vertes 

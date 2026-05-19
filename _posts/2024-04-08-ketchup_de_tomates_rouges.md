@@ -2,12 +2,12 @@
 layout: recipe
 title: "KETCHUP DE TOMATES ROUGES"
 description: "KETCHUP Maison Delicieux"
-category: "A cote"
+category: "Accompagnements"
 emoji: "🍲"
 date: 2024-01-15
 prep_time: "20 min"
-cook_time: "2 h"
-servings: 6
+cook_time: "4 h"
+servings: 
 difficulty: Facile
 ingredients:
 - 15 Tomates rouges 
