@@ -3,7 +3,7 @@ layout: recipe
 title: "TARTE AUX PÊCHES À LA GUIMAUVE"
 description: "TARTE AUX PÊCHES À LA GUIMAUVE"
 category: "Desserts"
-emoji: "🥫"
+emoji: "🥧"
 date: 2024-03-05
 prep_time: "25 min"
 cook_time: "5-10 min"

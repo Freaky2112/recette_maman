@@ -3,7 +3,7 @@ layout: recipe
 title: "MUFFINS AU ALL BRAN"
 description: "Muffins au All Bran"
 category: "Pâtisserie"
-emoji: "🥫"
+emoji: "🧁"
 date: 2024-03-05
 prep_time: "10 min"
 cook_time: "15-20 min"

@@ -3,7 +3,7 @@ layout: recipe
 title: "TARALLI AUX FENOUIL"
 description: "TARALLI AUX FENOUIL de NONNA"
 category: "Pâtisserie"
-emoji: "🥫"
+emoji: "🥖"
 date: 2024-03-05
 prep_time: "30 min"
 cook_time: "20 - 25 min"

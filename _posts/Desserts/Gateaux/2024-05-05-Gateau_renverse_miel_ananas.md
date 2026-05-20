@@ -3,7 +3,7 @@ layout: recipe
 title: "GÂTEAU RENVERSÉ AU MIEL ET AUX ANANAS"
 description: "GÂTEAU RENVERSÉ AU MIEL ET AUX ANANAS"
 category: "Desserts"
-emoji: "🧱"
+emoji: "🍰"
 date: 2024-01-15
 prep_time: "15 min"
 cook_time: "50-55 min"
