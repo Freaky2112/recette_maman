@@ -2,7 +2,7 @@
 layout: recipe
 title: "MUFFINS AU GRUAU"
 description: "Muffins au Gruau"
-category: "Desserts"
+category: "Pâtisserie"
 emoji: "🥫"
 date: 2024-03-05
 prep_time: "10 min"
