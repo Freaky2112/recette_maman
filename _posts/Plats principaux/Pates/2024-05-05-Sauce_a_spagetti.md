@@ -2,7 +2,7 @@
 layout: recipe
 title: "SAUCE À SPAGETTI"
 description: "Sauce a Spagetti de Loulou"
-category: "Plats Principaux"
+category: "Plats principaux"
 emoji: "🍲"
 date: 2024-01-15
 prep_time: "10 min"
@@ -31,4 +31,4 @@ steps:
 
   - Brasser de temps en temps.
 
---
+---
