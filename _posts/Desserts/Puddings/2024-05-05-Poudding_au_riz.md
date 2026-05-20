@@ -3,7 +3,7 @@ layout: recipe
 title: "PUDDING AU RIZ"
 description: "PUDDING AU RIZ CRÉMEUX"
 category: "Desserts"
-emoji: "🥫"
+emoji: "🍮"
 date: 2024-03-05
 prep_time: "10 min"
 cook_time: "45 min"
