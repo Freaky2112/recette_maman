@@ -9,6 +9,7 @@ prep_time: "30 min"
 cook_time: "20 - 25 min"
 servings: 60 - 80
 difficulty: Facile
+tags: [Pains]
 ingredients:
   - 15 tasses de farine
   - 10 cuil. à thé de sel

@@ -9,6 +9,7 @@ prep_time: "10 min"
 cook_time: "45 min"
 servings: 6-8
 difficulty: Facile
+tags: [Pudding]
 ingredients:
   - 3 tasses de lait
   - ¾ de tasse de riz à grains longs

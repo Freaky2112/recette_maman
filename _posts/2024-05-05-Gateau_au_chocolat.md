@@ -9,6 +9,7 @@ prep_time: "20 mins"
 cook_time: "40-45 mins"
 servings: 8-10
 difficulty: moyen
+tags: [Chocolat , Gateau]
 ingredients:
   - 2/3 tasse de cacao
   - 2/3 tasse d'eau bouillante

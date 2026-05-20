@@ -9,6 +9,7 @@ prep_time: "20 min"
 cook_time: "4 h"
 servings: 
 difficulty: Facile
+tags: [Tomate , Comdiments]
 ingredients:
 - 15 Tomates rouges 
 - 1 Pied de céleri 

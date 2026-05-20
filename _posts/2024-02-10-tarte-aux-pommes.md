@@ -9,6 +9,7 @@ prep_time: "40 min"
 cook_time: "55 min"
 servings: 8
 difficulty: Moyen
+tags: [Tarte, Automne]
 ingredients:
   - "Pour la pâte :"
   - 310 g de farine tout usage

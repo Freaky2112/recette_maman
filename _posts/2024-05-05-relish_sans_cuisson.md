@@ -9,6 +9,7 @@ prep_time: "10 min"
 cook_time: "65 min"
 servings: 
 difficulty: Facile
+tags: [Condiments]
 ingredients:
   - 8 Tomates vertes 
   - 8 Gros oignons 

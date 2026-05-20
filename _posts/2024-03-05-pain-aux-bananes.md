@@ -9,6 +9,7 @@ prep_time: "10 min"
 cook_time: "65 min"
 servings: 10
 difficulty: Facile
+tags: [Pains]
 ingredients:
   - 3 bananes très mûres, écrasées
   - 75 g de beurre fondu

@@ -9,6 +9,7 @@ prep_time: "25 min"
 cook_time: "1 h"
 servings: 40-50
 difficulty: Facile
+tags: [Chocolats]
 ingredients:
   - 1/2 lb de beurre
   - 6 carrés de chocolat sucrés

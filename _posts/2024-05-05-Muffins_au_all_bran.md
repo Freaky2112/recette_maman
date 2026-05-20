@@ -9,6 +9,7 @@ prep_time: "10 min"
 cook_time: "15-20 min"
 servings: 12
 difficulty: Facile
+tags: [Muffins]
 ingredients:
   - 1 1/4 de tasse de All Bran
   - 1/4 de tasse d'huile
