@@ -5,9 +5,9 @@ description: "Sauce façon Jack Daniel’s (Recette maison)"
 category: "Accompagnements"
 emoji: "🍲"
 date: 2024-01-15
-prep_time: "10 min"
+prep_time: "15 min"
 cook_time: "40 -45 min"
-servings: 
+servings: 12
 difficulty: Facile
 tags: [Sauces , BBQ]
 ingredients:

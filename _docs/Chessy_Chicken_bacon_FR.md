@@ -24,3 +24,27 @@
 8.  **Garnir** avec le bacon réservé et le persil après la sortie du four. [cite: 13]
 
 *Servez chaud et gratiné !*
+
+Galettes de pommes de terre au poulet, bacon et ranch
+
+(From Chessy Chicken bacon)
+
+Estimated prep time: 20–25 min
+
+cooking/prepping bacon
+shredding chicken
+mixing filling
+
+Bake time: 35–40 min
+
+Rest time: 5–10 min before serving
+
+Total time: ~1 hour
+
+Estimated servings: 8–10 portions
+(large 23 × 33 cm casserole)
+
+Difficulty: Easy
+
+Notes:
+This is a very filling casserole-style dish. With salad or vegetables on the side, it could stretch to 10–12 servings.

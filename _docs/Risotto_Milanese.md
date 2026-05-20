@@ -16,4 +16,28 @@
 3.  **Nacrer le riz :** Faire revenir l'oignon dans le beurre (5 min), ajouter le riz et chauffer jusqu'à ce qu'il soit translucide (env. 3 min). [cite: 23, 24]
 4.  **Déglacer :** Ajouter le vin, le mélange de safran et l'eau. Cuire jusqu'à absorption complète du vin. [cite: 25]
 5.  **Cuisson :** Verser le bouillon chaud 1 tasse à la fois. Attendre l'absorption et brasser régulièrement avant d'ajouter la louche suivante. Répéter jusqu'à épuisement du bouillon. [cite: 26, 27]
-6.  **Finition :** Terminer avec le parmesan râpé et assaisonner. [cite: 28]
+6.  **Finition :** Terminer avec le parmesan râpé et assaisonner.
+7.  
+
+Risotto Milanese
+
+(From Rissoto Milanese)
+
+Estimated prep time: 10–15 min
+
+chopping onion
+warming broth
+measuring ingredients
+
+Cook time: 30–40 min
+
+gradual broth additions and stirring
+
+Total time: ~45–55 min
+
+Estimated servings: 4–6 portions
+
+Difficulty: Medium
+
+Notes:
+Risotto needs constant attention while cooking, so even though the ingredient list is simple, it’s a more hands-on recipe.
