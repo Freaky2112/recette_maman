@@ -23,7 +23,7 @@ ingredients:
   - 2/3 tasse de lait
   - 2 œufs non battus
   - 2 cuil. à thé de vanille
-step:
+steps:
   - Chauffer le four à 350 degrés F.
   - Mettre le cacao dans un grand bol, ajouter lentement l'eau bouillante. Mélanger jusqu'à ce que ce soit lisse.
   - Incorporer le sirop de maïs, bien mélanger. 

@@ -25,7 +25,7 @@ ingredients:
   - 4 onces (112 grms) de fromage à la crème
   - 1/4 de tasse de beurre doux
   - Sucre à glacer (au goût)
-setup:
+steps:
   - Tamisez la farine; ajouter la poudre à pâte, le soda à pâte, la cannelle, la muscade et le sel.
   - Dans un bol, mélanger les zucchinis, l'huile, le sucre et les œufs. Faites entrer le mélange courgette, puis les noix, mélangez bien.
   - Verser dans deux moules de 8 pouces graissés et recouverts d'un papier graissé.

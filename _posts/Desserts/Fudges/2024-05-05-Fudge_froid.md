@@ -19,7 +19,7 @@ ingredients:
   - 1 1/2 lbs de sucre en poudre
   - 1 tasse de noix hachées
 
-step:
+steps:
   - Faire fondre le beurre et le chocolat au bain-marie.
   - Ajouter les guimauves, le lait et laisser fondre.
   - Ajouter le sucre en poudre tamisé et brasser en mélangeant avec la première préparation par petites quantités.
