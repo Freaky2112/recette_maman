@@ -1,7 +1,7 @@
 ---
 layout: recipe
-title: "FUDGE FROID"
-description: "FUDGE FROID"
+title: "Fudge Froid"
+description: "Fudge Froid aux Noix"
 category: "Desserts"
 emoji: "🧱"
 date: 2024-01-15

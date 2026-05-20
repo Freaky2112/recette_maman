@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: "KETCHUP DE TOMATES ROUGES"
+title: "Ketchup de Tomates Rouges"
 description: "KETCHUP Maison Delicieux"
 category: "Accompagnements"
 emoji: "🥫"

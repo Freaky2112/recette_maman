@@ -1,7 +1,7 @@
 ---
 layout: recipe
-title: "GÂTEAU RENVERSÉ AU MIEL ET AUX ANANAS"
-description: "GÂTEAU RENVERSÉ AU MIEL ET AUX ANANAS"
+title: "Gateau Renverse au Miel et aux Annanas"
+description: "Gateau Renverse au Miel et aux AnnanasS"
 category: "Desserts"
 emoji: "🍰"
 date: 2024-01-15

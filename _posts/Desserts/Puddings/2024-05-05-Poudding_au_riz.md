@@ -1,7 +1,7 @@
 ---
 layout: recipe
-title: "PUDDING AU RIZ"
-description: "PUDDING AU RIZ CRÉMEUX"
+title: "Poudding au Riz"
+description: "Poudding au riz Cremeux"
 category: "Desserts"
 emoji: "🍮"
 date: 2024-03-05

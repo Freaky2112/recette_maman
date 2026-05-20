@@ -11,17 +11,17 @@ servings: 12
 difficulty: Facile
 tags: [Sauces , BBQ]
 ingredients:
-  - 500 ml** de jus d’ananas 
-  - 325 g** de cassonade (bien tassée) 
-  - 125 ml** de sauce teriyaki 
-  - 2 cuillères à soupe** de sauce soja 
-  - 2 cuillères à soupe** de moutarde de Dijon 
-  - 2 cuillères à soupe** de sauce Worcestershire 
-  - 4 cuillères à thé** de jus de citron 
+  - 500 ml de jus d’ananas 
+  - 325 g de cassonade (bien tassée) 
+  - 125 ml de sauce teriyaki 
+  - 2 cuillères à soupe de sauce soja 
+  - 2 cuillères à soupe de moutarde de Dijon 
+  - 2 cuillères à soupe de sauce Worcestershire 
+  - 4 cuillères à thé de jus de citron 
   - 125 ml** de whisky Jack Daniel’s 
-  - 2 cuillères à soupe** d’oignon finement haché 
-  - 2 cuillères à thé** d’ail haché 
-  - 1 cuillère à thé** de poivre noir 
+  - 2 cuillères à soupe d’oignon finement haché 
+  - 2 cuillères à thé d’ail haché 
+  - 1 cuillère à thé de poivre noir 
   - Facultatif ½ cuillère à thé de paprika fumé 
 
 steps:

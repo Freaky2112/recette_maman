@@ -1,7 +1,7 @@
 ---
 layout: recipe
-title: "GÂTEAU AU CHOCOLAT"
-description: "GÂTEAU AU CHOCOLAT"
+title: "Gateau au Chocolat"
+description: "Gateau au Chocolat"
 category: "Desserts"
 emoji: "🎂"
 date: 2024-01-15

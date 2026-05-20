@@ -1,7 +1,7 @@
 ---
 layout: recipe
-title: "GÂTEAU AU ZUCCHINI"
-description: "GÂTEAU AU ZUCCHINI"
+title: "Gateau au Zucchini"
+description: "Gateau au Zucchini"
 category: "Desserts"
 emoji: "🍰"
 date: 2024-01-15

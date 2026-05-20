@@ -1,7 +1,7 @@
 ---
 layout: recipe
-title: "TARTE AUX PÊCHES À LA GUIMAUVE"
-description: "TARTE AUX PÊCHES À LA GUIMAUVE"
+title: "Tarte Aux Peches a La Guimauve"
+description: "Tarte aux peches a la guimauve"
 category: "Desserts"
 emoji: "🥧"
 date: 2024-03-05

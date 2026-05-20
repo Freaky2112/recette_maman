@@ -1,12 +1,12 @@
 ---
 layout: recipe
-title: "RELISH SANS CUISSON"
+title: "Relish Sans Cussion"
 description: "Relish Simple et Rapide."
 category: "Accompagnements"
 emoji: "🥫"
 date: 2024-03-05
 prep_time: "10 min"
-cook_time: "65 min"
+cook_time: ""
 servings: 
 difficulty: Facile
 tags: [Condiments]

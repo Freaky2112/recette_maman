@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: "MUFFINS AU GRUAU"
+title: "Muffins Au Gruau"
 description: "Muffins au Gruau"
 category: "Pâtisserie"
 emoji: "🧁"

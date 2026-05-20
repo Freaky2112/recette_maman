@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: "GÂTEAU ÉCLAIR AU CHOCOLAT"
+title: "Gateau Éclair au Chocolat"
 description: "Gateau Éclair au Chocolat "
 category: "Desserts"
 emoji: "🍰"

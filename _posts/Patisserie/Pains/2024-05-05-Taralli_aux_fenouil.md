@@ -1,7 +1,7 @@
 ---
 layout: recipe
-title: "TARALLI AUX FENOUIL"
-description: "TARALLI AUX FENOUIL de NONNA"
+title: "TARALLI Aux Fenouil"
+description: "Taralli aux fenouil de NONNA"
 category: "Pâtisserie"
 emoji: "🥖"
 date: 2024-03-05

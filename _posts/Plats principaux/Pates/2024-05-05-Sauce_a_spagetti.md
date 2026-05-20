@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: "SAUCE À SPAGETTI"
+title: "Sauce a Spagetti"
 description: "Sauce a Spagetti de Loulou"
 category: "Plats principaux"
 emoji: "🍲"

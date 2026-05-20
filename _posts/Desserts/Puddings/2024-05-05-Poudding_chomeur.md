@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: "POUDDING CHÔMEUR"
+title: "Poudding Chomeur"
 description: "Poudding Chomeur"
 category: "Desserts"
 emoji: "🥫"

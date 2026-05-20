@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: "MUFFINS AU ALL BRAN"
+title: "Muffins Au ALL-BRAN"
 description: "Muffins au All Bran"
 category: "Pâtisserie"
 emoji: "🧁"
