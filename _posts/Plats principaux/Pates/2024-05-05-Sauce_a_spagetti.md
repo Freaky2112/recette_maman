@@ -23,12 +23,11 @@ ingredients:
 
 steps: 
   - Trancher l'oignon en très petits morceaux.
-   - Dans un chaudron  moyen verser l'huile  et chauffer à feu moyen et faire revenir l'oignon et l'ail
+  - Dans un chaudron  moyen verser l'huile  et chauffer à feu moyen et faire revenir l'oignon et l'ail
   - Ajouter la boîte de pâte de tomate rincer la boîte avec un peu d'eau et l'ajouter.
   - Ajouter les 2 boîtes de tomates brasser un peu.
   - Ajouter le steak haché et l'émietter.Ajouter le laurier,l'oregano et le céleri.
   - Réduire le feu,faire cuire à feu doux durant 1 ½ à 2 heures
-
   - Brasser de temps en temps.
 
 ---

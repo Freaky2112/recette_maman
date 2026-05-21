@@ -20,9 +20,9 @@ ingredients:
   - 1 cuill. à table de jus de citron
   - ½ tasse de crème à fouetter
 steps:
-  - **Pâte :** Préparer une pâte-biscuit (suivre recette sur la boîte de biscuits graham). Cuire dans un plat de 9'' de diamètre, puis laisser refroidir.
-  - **Fruits :** Égoutter les pêches en conservant le sirop. Dresser les pêches dans l'abaisse, partie bombée dessous. Garder 2 moitiés de pêches pour garnir plus tard.
-  - **Crème :** Mélanger dans un bain-marie le sirop, le jus d'orange et les guimauves. Cuire jusqu'à ce que les guimauves soient fondues.
+  - Pâte : Préparer une pâte-biscuit (suivre recette sur la boîte de biscuits graham). Cuire dans un plat de 9'' de diamètre, puis laisser refroidir.
+  - Fruits : Égoutter les pêches en conservant le sirop. Dresser les pêches dans l'abaisse, partie bombée dessous. Garder 2 moitiés de pêches pour garnir plus tard.
+  - Crème : Mélanger dans un bain-marie le sirop, le jus d'orange et les guimauves. Cuire jusqu'à ce que les guimauves soient fondues.
   - Retirer du feu, ajouter l'essence d'amandes et le jus de citron.
   - Refroidir jusqu'à ce que le mélange devienne un sirop épais et l'incorporer à la crème fouettée.
   - Déposer par cuillerée sur les pêches.

@@ -17,7 +17,7 @@ ingredients:
   - 2 tasses de farine
   - 4 cuil. à thé de poudre à pâte
 
-  * Ingrédients (Sirop)
+ ingrédients: (Sirop)
   - 3 tasses de cassonade
   - 3 tasses d'eau bouillante
   - 2 cuill. à thé de fécule de maïs

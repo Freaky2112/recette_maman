@@ -16,7 +16,7 @@ ingredients:
   - 1 cuillère à soupe de farine
 
 steps: 
-      - Mélangez le tout et laissez reposer toute la nuit à température ambiante.
+  - Mélangez le tout et laissez reposer toute la nuit à température ambiante.
 
 notes:
   - Donne environ 50g de levure fraîche.
