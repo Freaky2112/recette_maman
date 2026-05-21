@@ -15,7 +15,7 @@ ingredients:
   - 1 oeuf
   - 50g chapelure Italienne Pastene
 
-notes:
+steps:
   - Saucer le filet de sole dans la chapelure Italienne Pastene.
   - Saucer dans l'oeuf brassé et tremper une deuxième fois dans la chapelure.
   - Faire cuire dans un peu d'huile.
