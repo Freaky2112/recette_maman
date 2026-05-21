@@ -3,7 +3,7 @@ layout: recipe
 title: "Filets de Sole panés"
 description: "Filets de Sole panés"
 category: "Plats principaux"
-emoji: "🍲"
+emoji: "🐠"
 date: 2024-01-15
 prep_time: "10 min"
 cook_time: "6 - 8 min"
