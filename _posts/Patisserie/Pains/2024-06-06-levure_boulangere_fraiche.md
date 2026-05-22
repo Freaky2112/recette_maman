@@ -3,7 +3,7 @@ layout: recipe
 title: "Levure Boulangère Fraîche"
 description: "Levure Boulangère Fraîche Maison"
 category: "Pâtisserie"
-emoji: "🥖"
+emoji: "🥣"
 date: 2024-03-05
 prep_time: "5 min"
 cook_time: "8 - 12 hrs"
