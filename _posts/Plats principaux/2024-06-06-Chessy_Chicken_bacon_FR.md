@@ -32,8 +32,6 @@ steps:
   - Disposer les pommes de terre rissolées en une seule couche sur le mélange. 
   - Cuire à découvert pendant 35 à 40 minutes, jusqu'à ce que les pommes de terre soient dorées et croustillantes. 
   - Garnir avec le bacon réservé et le persil après la sortie du four. 
-
 notes:
   - Servez chaud et gratiné !
-
 ---
