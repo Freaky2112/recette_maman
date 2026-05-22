@@ -6,8 +6,8 @@ category: "Accompagnements"
 emoji: "🥫"
 date: 2024-03-08
 prep_time: "10 min"
-cook_time: ""
-servings: *
+cook_time: "0"
+servings: 30
 difficulty: Facile
 tags: [Condiments]
 ingredients:
