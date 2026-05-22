@@ -27,5 +27,5 @@ steps:
    - Cuisson Verser le bouillon chaud 1 tasse à la fois. Attendre l'absorption et brasser régulièrement avant d'ajouter la louche suivante. Répéter jusqu'à épuisement du bouillon. 
    - Finition Terminer avec le parmesan râpé et assaisonner.
 notes:
-Le Risotto demande une attention constante pendant la cuisson. Même si la liste d’ingrédients est simple, c’est une recette qui nécessite davantage de surveillance et de manipulation.
+Le Risotto demande une attention constante pendant la cuisson. Même si la liste d’ingrédients |est simple, c’est une recette qui nécessite davantage de surveillance et de manipulation.
 ---
