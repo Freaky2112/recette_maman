@@ -4,7 +4,7 @@ title: "SOUPE AUX LENTILLES"
 description: "SOUPE AUX LENTILLES"
 category: "Plats principaux"
 emoji: "🍲"
-date: 2024-01-15
+date: 2024-01-05
 prep_time: "15 min"
 cook_time: "1:10 hrs"
 servings: 4 -6

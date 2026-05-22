@@ -4,7 +4,7 @@ title: "Galettes de pommes de terre au poulet, bacon"
 description: "Galettes de pommes de terre au poulet, bacon et sauce ranch"
 category: "Accompagnements"
 emoji: "🥔"
-date: 2024-03-05
+date: 2024-03-22
 prep_time: "20 - 25 min"
 cook_time: "30 -40 min"
 servings: 8 - 10

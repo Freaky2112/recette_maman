@@ -4,7 +4,7 @@ title: "Muffins Au Gruau"
 description: "Muffins au Gruau"
 category: "Pâtisserie"
 emoji: "🧁"
-date: 2024-03-05
+date: 2024-03-17
 prep_time: "10 min"
 cook_time: "15-20 min"
 servings: 12

@@ -4,7 +4,7 @@ title: "Tarte Aux Peches a La Guimauve"
 description: "Tarte aux peches a la guimauve"
 category: "Desserts"
 emoji: "🥧"
-date: 2024-03-05
+date: 2024-03-15
 prep_time: "25 min"
 cook_time: "5-10 min"
 servings: 8

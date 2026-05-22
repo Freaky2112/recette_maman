@@ -4,7 +4,7 @@ title: "Fudge Froid"
 description: "Fudge Froid aux Noix"
 category: "Desserts"
 emoji: "🧱"
-date: 2024-01-15
+date: 2024-01-16
 prep_time: "25 min"
 cook_time: "1 h"
 servings: 40-50

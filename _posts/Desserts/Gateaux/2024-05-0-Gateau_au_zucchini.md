@@ -4,7 +4,7 @@ title: "Gateau au Zucchini"
 description: "Gateau au Zucchini"
 category: "Desserts"
 emoji: "🍰"
-date: 2024-01-15
+date: 2024-01-17
 prep_time: "35 mins"
 cook_time: "50-60 mins"
 servings: 12-16

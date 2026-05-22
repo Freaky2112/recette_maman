@@ -4,10 +4,10 @@ title: "Relish Sans Cussion"
 description: "Relish Simple et Rapide."
 category: "Accompagnements"
 emoji: "🥫"
-date: 2024-03-05
+date: 2024-03-08
 prep_time: "10 min"
 cook_time: ""
-servings: 
+servings: *
 difficulty: Facile
 tags: [Condiments]
 ingredients:

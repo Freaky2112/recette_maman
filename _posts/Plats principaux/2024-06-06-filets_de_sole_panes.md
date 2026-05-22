@@ -4,7 +4,7 @@ title: "Filets de Sole panés"
 description: "Filets de Sole panés"
 category: "Plats principaux"
 emoji: "🐠"
-date: 2024-01-15
+date: 2024-01-01
 prep_time: "10 min"
 cook_time: "6 - 8 min"
 servings: 4

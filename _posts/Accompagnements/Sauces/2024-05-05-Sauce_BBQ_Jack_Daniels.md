@@ -4,7 +4,7 @@ title: "Sauce façon Jack Daniel’s"
 description: "Sauce façon Jack Daniel’s (Recette maison)"
 category: "Accompagnements"
 emoji: "🍲"
-date: 2024-01-15
+date: 2024-01-30
 prep_time: "15 min"
 cook_time: "40 -45 min"
 servings: 12

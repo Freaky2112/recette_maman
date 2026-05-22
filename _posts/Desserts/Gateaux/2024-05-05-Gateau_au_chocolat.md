@@ -4,7 +4,7 @@ title: "Gateau au Chocolat"
 description: "Gateau au Chocolat"
 category: "Desserts"
 emoji: "🎂"
-date: 2024-01-15
+date: 2024-01-18
 prep_time: "20 mins"
 cook_time: "40-45 mins"
 servings: 8-10

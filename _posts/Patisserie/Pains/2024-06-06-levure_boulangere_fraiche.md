@@ -4,7 +4,7 @@ title: "Levure Boulangère Fraîche"
 description: "Levure Boulangère Fraîche Maison"
 category: "Pâtisserie"
 emoji: "🥣"
-date: 2024-03-05
+date: 2024-03-20
 prep_time: "5 min"
 cook_time: "8 - 12 hrs"
 servings: 50g

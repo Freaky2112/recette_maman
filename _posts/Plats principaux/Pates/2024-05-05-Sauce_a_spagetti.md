@@ -4,7 +4,7 @@ title: "Sauce a Spagetti"
 description: "Sauce a Spagetti de Loulou"
 category: "Plats principaux"
 emoji: "🍲"
-date: 2024-01-15
+date: 2024-01-28
 prep_time: "10 min"
 cook_time: "1½ - 2 Hrs"
 servings: 6

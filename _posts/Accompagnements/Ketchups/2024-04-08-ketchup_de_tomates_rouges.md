@@ -7,7 +7,7 @@ emoji: "🥫"
 date: 2024-01-15
 prep_time: "20 min"
 cook_time: "4 h"
-servings: 
+servings: *
 difficulty: Facile
 tags: [Tomate , Condiments]
 ingredients:

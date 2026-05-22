@@ -4,7 +4,7 @@ title: "PÂTE À FLEURS OU CHOU-FLEURS"
 description: "PÂTE À FLEURS OU CHOU-FLEURS"
 category: "Pâtisserie"
 emoji: "🥣"
-date: 2024-03-05
+date: 2024-03-21
 prep_time: "10 min"
 cook_time: "5 mins"
 servings: 4 - 6

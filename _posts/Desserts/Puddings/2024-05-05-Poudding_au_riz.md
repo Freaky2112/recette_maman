@@ -4,7 +4,7 @@ title: "Poudding au Riz"
 description: "Poudding au riz Cremeux"
 category: "Desserts"
 emoji: "🍮"
-date: 2024-03-05
+date: 2024-03-06
 prep_time: "10 min"
 cook_time: "45 min"
 servings: 6-8

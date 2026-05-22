@@ -4,7 +4,7 @@ title: "Poudding Chomeur"
 description: "Poudding Chomeur"
 category: "Desserts"
 emoji: "🥫"
-date: 2024-03-05
+date: 2024-03-07
 prep_time: "20 min"
 cook_time: "40 min"
 servings: 6-8

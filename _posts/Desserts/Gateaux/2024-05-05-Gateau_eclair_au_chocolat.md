@@ -1,10 +1,10 @@
 ---
 layout: recipe
 title: "Gateau Éclair au Chocolat"
-description: "Gateau Éclair au Chocolat "
+description: "Gateau Éclair au Chocolat"
 category: "Desserts"
 emoji: "🍰"
-date: 2024-01-15
+date: 2024-01-19
 prep_time: "15 min"
 cook_time: "25 min"
 servings: 8-10

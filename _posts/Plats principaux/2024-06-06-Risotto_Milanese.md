@@ -4,7 +4,7 @@ title: "Risotto Milanese"
 description: "Risotto Milanese"
 category: "Plats principaux"
 emoji: "🍲"
-date: 2024-01-15
+date: 2024-01-02
 prep_time: "10 - 15 min"
 cook_time: "30 - 40 min"
 servings: 4 -6

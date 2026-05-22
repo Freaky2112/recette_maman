@@ -4,7 +4,7 @@ title: "Muffins Au ALL-BRAN"
 description: "Muffins au All Bran"
 category: "Pâtisserie"
 emoji: "🧁"
-date: 2024-03-05
+date: 2024-03-16
 prep_time: "10 min"
 cook_time: "15-20 min"
 servings: 12

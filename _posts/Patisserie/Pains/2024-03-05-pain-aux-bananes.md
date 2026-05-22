@@ -4,7 +4,7 @@ title: "Pain aux Bananes"
 description: "Moelleux, tendre et parfaitement sucré. Plus les bananes sont mûres, meilleur c'est."
 category: "Pâtisserie"
 emoji: "🍞"
-date: 2024-03-05
+date: 2024-03-18
 prep_time: "10 min"
 cook_time: "65 min"
 servings: 10

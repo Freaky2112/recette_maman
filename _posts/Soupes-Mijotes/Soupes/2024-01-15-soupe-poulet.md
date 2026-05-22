@@ -4,7 +4,7 @@ title: "Soupe au Poulet de Maman"
 description: "Celle qui guérit tout. Un bouillon doré et riche avec du poulet tendre et des légumes fondants."
 category: "Soupes & Mijotés"
 emoji: "🍲"
-date: 2024-01-15
+date: 2024-01-03
 prep_time: "20 min"
 cook_time: "2 h"
 servings: 6

@@ -1,10 +1,10 @@
 ---
 layout: recipe
 title: "Gateau Renverse au Miel et aux Annanas"
-description: "Gateau Renverse au Miel et aux AnnanasS"
+description: "Gateau Renverse au Miel et aux Annanas"
 category: "Desserts"
 emoji: "🍰"
-date: 2024-01-15
+date: 2024-01-20
 prep_time: "15 min"
 cook_time: "50-55 min"
 servings: 8-10
