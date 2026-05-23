@@ -9,7 +9,7 @@ prep_time: "20 min"
 cook_time: "40 min"
 servings: 6-8
 difficulty: Facile
-tags: [Pudding]
+tags: [Pudding , Desserts]
 ingredients:
   - 1 œuf
   - 1 tasse de lait

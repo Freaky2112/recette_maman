@@ -9,7 +9,7 @@ prep_time: "35 mins"
 cook_time: "50-60 mins"
 servings: 12-16
 difficulty: moyen
-tags: [Gateau]
+tags: [Gateau , Desserts]
 ingredients:
   - 2 1/2 tasses (625 ml) de farine
   - 1 1/2 cuil. à thé de poudre à pâte

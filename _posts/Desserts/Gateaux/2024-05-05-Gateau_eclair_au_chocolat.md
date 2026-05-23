@@ -9,7 +9,7 @@ prep_time: "15 min"
 cook_time: "25 min"
 servings: 8-10
 difficulty: Facile
-tags: [Chocolat , Gateau]
+tags: [Chocolat , Gateau , Desserts]
 ingredients:
   - 1 1/2 tasse de farine tamisée
   - 1 cuil. à thé de soda à pâte

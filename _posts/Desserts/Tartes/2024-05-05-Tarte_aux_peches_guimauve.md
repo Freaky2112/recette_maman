@@ -9,7 +9,7 @@ prep_time: "25 min"
 cook_time: "5-10 min"
 servings: 8
 difficulty: Facile
-tags: [Tarte , Fruits]
+tags: [Tarte , Fruits , Desserts]
 ingredients:
   - 1 abaisse de 9'' faite avec des biscuits graham
   - 2 boîtes de 15 oz de moitiés de pêches

@@ -9,7 +9,7 @@ prep_time: "15 min"
 cook_time: "50-55 min"
 servings: 8-10
 difficulty: Facile
-tags: [Fruits , Gateau]
+tags: [Fruits , Gateau , Desserts]
 ingredients:
   - 1/3 de tasse de miel
   - 3 cuill. à table de graisse
