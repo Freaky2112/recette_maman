@@ -1,17 +1,17 @@
 ---
 layout: recipe
-title: "Some Titile"
-description: "Sweet Description"
-category: "choose one"
+title: "Crevette de Shaishuan"
+description: "Crevette de Shaishuan"
+category: "Plats principaux"
 emoji: ":)"
 date: yyyy-mm-dd
 prep_time: "20 min"
 cook_time: "4 h"
 servings: 30
 difficulty: Facile
-tags: [Tomate , Condiments]
+tags: [Fruis-de-Mer , Wok]
 ingredients:
-- 1 ingedients 
+- 1 crevettes
 - 1 ingedients
 - 1 ingedients 
 - 1 ingedients 
