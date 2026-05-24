@@ -7,7 +7,7 @@ emoji: "🥗"
 date: 2025-01-05
 prep_time: "20 min"
 cook_time: "15 - 20"
-servings: 30
+servings: 4 - 6
 difficulty: Facile
 tags: [Poulet , Salade]
 ingredients:
