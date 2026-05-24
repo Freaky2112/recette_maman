@@ -3,10 +3,10 @@ layout: recipe
 title: "Salade César au Poulet Grille"
 description: "Salade César au Poulet Grille Delicieux"
 category: "Plats principaux"
-emoji: ":)"
+emoji: "🥗"
 date: 2025-01-05
 prep_time: "20 min"
-cook_time: "4 h"
+cook_time: "15 - 20"
 servings: 30
 difficulty: Facile
 tags: [Poulet , Salade]

@@ -3,7 +3,7 @@ layout: recipe
 title: "Salade de poulet aux pommes et à l'avocat"
 description: "Salade de poulet aux pommes et à l'avocat"
 category: "Plats principaux"
-emoji: ":)"
+emoji: "🥗"
 date: 2025-01-07
 prep_time: "10 min"
 cook_time: "0"
