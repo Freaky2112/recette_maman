@@ -1,163 +1,34 @@
-
-
 ---
 layout: recipe
-title: "Some Titile"
-description: "Sweet Description"
-category: "choose one"
-emoji: ":)"
-date: yyyy-mm-dd
-prep_time: "20 min"
-cook_time: "4 h"
-servings: 30
+title: "Salade de brocoli à la César"
+description: "Salade de brocoli à la César"
+category: "Plats principaux"
+emoji: "🥗"
+date: 2015-01-11
+prep_time: "15 min"
+cook_time: "10 min"
+servings: 4
 difficulty: Facile
-tags: [Tomate , Condiments]
+tags: [Salad]
 ingredients:
-- 1 ingedients 
-- 1 ingedients
-- 1 ingedients 
-- 1 ingedients 
+  - 8 tranches de bacon à l'érable 
+  - 1/4 de baguette de pain coupée en petits cubes 
+  - 30 ml (2 c. à soupe) d'huile d'olive 
+  - Sel et poivre au goût 
+  - 1 brocoli coupé en petits bouquets 
+  - 125 ml (1/2 tasse) de vinaigrette César 
+  - 1 pomme Cortland tranchée finement 
+  - 125 ml (1/2 tasse) de noix de Grenoble en morceaux
+  - 80 ml (1/3 de tasse) de copeaux de parmesan 
 steps:
-  - etape de prepation 
-notes:
-  - explications supplementaire...
-
-## 9. Salade de rotinis au pesto, tomates et prosciutto
-* **Préparation :** 10 minutes [cite: 239]
-* **Cuisson :** 10 minutes [cite: 239]
-* **Quantité :** 4 portions [cite: 239]
-
-### Ingrédients
-* 1 litre (4 tasses) de rotinis [cite: 236]
-* 8 tranches de prosciutto coupées en morceaux [cite: 236]
-* 100 g (3 1/2 oz) de mozzarella fraîche déchiquetée [cite: 236]
-* 4 tomates italiennes coupées en cubes [cite: 236]
-* 125 ml (1/2 tasse) de pesto de basilic [cite: 236]
-* 12 feuilles de basilic [cite: 236]
-* Sel et poivre au goût [cite: 236]
-
-### Préparation
-1. Dans une casserole d'eau bouillante salée, cuire les pâtes al dente. Égoutter et refroidir sous l'eau froide. Égoutter de nouveau. [cite: 236]
-2. Dans un saladier, mélanger les pâtes avec le prosciutto, les tomates, le pesto et la mozzarella. Saler et poivrer. [cite: 236]
-3. Au moment de servir, garnir de feuilles de basilic. [cite: 236]
+  - [cite_start]Préchauffer le four à 190 °C (375 °F).
+  - Sur une plaque de cuisson tapissée de papier parchemin, déposer les tranches de bacon. Cuire au four de 10 à 12 minutes, jusqu'à ce que le bacon soit croustillant. Retirer du four et émietter. 
+  - Dans un bol, mélanger les cubes de pain avec l'huile d'olive. Saler et poivrer. 
+  - Sur une autre plaque de cuisson tapissée de papier parchemin, déposer les cubes de pain. Cuire au four de 10 à 12 minutes. 
+  - Dans une casserole d'eau bouillante salée, cuire le brocoli de 1 à 2 minutes. Rincer sous l'eau froide et égoutter. 
+  - Dans un saladier, mélanger la vinaigrette avec le brocoli, les croûtons, la pomme, les noix de Grenoble et le bacon. Parsemer de copeaux de parmesan. 
 ---
 
-
-
----
-layout: recipe
-title: "Some Titile"
-description: "Sweet Description"
-category: "choose one"
-emoji: ":)"
-date: yyyy-mm-dd
-prep_time: "20 min"
-cook_time: "4 h"
-servings: 30
-difficulty: Facile
-tags: [Tomate , Condiments]
-ingredients:
-- 1 ingedients 
-- 1 ingedients
-- 1 ingedients 
-- 1 ingedients 
-steps:
-  - etape de prepation 
-notes:
-  - explications supplementaire...
----
-## 10. Carpaccio de tomates et concombre
-* **Préparation :** 15 minutes [cite: 254]
-* **Quantité :** 4 portions [cite: 255]
-* **Type :** Entrée - Végétarien, sans noix, sans œuf, sans gluten [cite: 251, 257, 258]
-* **Source :** 5-15 [cite: 249]
-
-### Valeurs nutritionnelles (Par portion)
-* **Calories :** 253 [cite: 260]
-* **Protéines :** 11 g [cite: 260]
-* **Matières grasses :** 17 g [cite: 260]
-* **Glucides :** 14 g [cite: 260]
-* **Fibres :** 1.9 g (estimé textuel '19') [cite: 260]
-* **Fer :** 0 mg [cite: 260]
-* **Calcium :** 185 mg [cite: 260]
-* **Sodium :** 15 mg [cite: 260]
-
-### Ingrédients
-* 1 concombre anglais [cite: 250]
-* 12 tomates cocktail de couleurs variées [cite: 256, 259]
-* 4 gros bocconcinis [cite: 261]
-* 60 ml (1/4 de tasse) de coulis de vinaigre balsamique [cite: 268]
-* 12 feuilles de basilic [cite: 269, 270]
-* 30 ml (2 c. à soupe) d'huile d'olive [cite: 271]
-* Sel et poivre du moulin [cite: 266]
-* **Facultatif :** 2 radis [cite: 273]
-
-### Préparation
-1. À l'aide d'une mandoline, couper le concombre (et les radis si désiré) en fines rondelles. [cite: 262]
-2. Couper les tomates cocktail et les bocconcinis en tranches fines. [cite: 263]
-3. Dans quatre petites assiettes, répartir le concombre, les tomates, les bocconcinis et les radis (si désiré) en les faisant alterner. [cite: 265]
-4. Arroser de coulis de vinaigre balsamique et d'huile d'olive. Assaisonner de sel et de poivre du moulin. Parsemer de basilic. [cite: 266, 267]
-
-
-# Complément de Recettes et Préparations Culindaires
----
-layout: recipe
-title: "Some Titile"
-description: "Sweet Description"
-category: "choose one"
-emoji: ":)"
-date: yyyy-mm-dd
-prep_time: "20 min"
-cook_time: "4 h"
-servings: 30
-difficulty: Facile
-tags: [Tomate , Condiments]
-ingredients:
-- 1 ingedients 
-- 1 ingedients
-- 1 ingedients 
-- 1 ingedients 
-steps:
-  - etape de prepation 
-notes:
-  - explications supplementaire...
----
-## 11. Salade de brocoli à la César
-* [cite_start]**Préparation :** 15 minutes [cite: 5]
-* [cite_start]**Cuisson :** 10 minutes [cite: 6]
-* [cite_start]**Portions :** 4 [cite: 4]
-* [cite_start]**Source :** 5.15 [cite: 1]
-
-### Valeurs nutritionnelles (Par portion)
-* [cite_start]**Calories :** 595 [cite: 8]
-* [cite_start]**Protéines :** 15 g [cite: 8]
-* [cite_start]**Matières grasses :** 51 g [cite: 8]
-* [cite_start]**Glucides :** 20 g [cite: 9]
-* [cite_start]**Fibres :** 3 g [cite: 9]
-* [cite_start]**Fer :** 2 mg [cite: 9]
-* [cite_start]**Calcium :** 189 mg [cite: 9]
-* [cite_start]**Sodium :** 748 mg [cite: 9]
-
-### Ingrédients
-* [cite_start]8 tranches de bacon à l'érable [cite: 14]
-* [cite_start]1/4 de baguette de pain coupée en petits cubes [cite: 15, 16]
-* [cite_start]30 ml (2 c. à soupe) d'huile d'olive [cite: 17]
-* [cite_start]Sel et poivre au goût [cite: 18]
-* [cite_start]1 brocoli coupé en petits bouquets [cite: 19]
-* [cite_start]125 ml (1/2 tasse) de vinaigrette César [cite: 20]
-* [cite_start]1 pomme Cortland tranchée finement [cite: 21]
-* [cite_start]125 ml (1/2 tasse) de noix de Grenoble en morceaux [cite: 22]
-* [cite_start]80 ml (1/3 de tasse) de copeaux de parmesan [cite: 23]
-
-### Préparation
-1. [cite_start]Préchauffer le four à 190 °C (375 °F). [cite: 26]
-2. Sur une plaque de cuisson tapissée de papier parchemin, déposer les tranches de bacon. Cuire au four de 10 à 12 minutes, jusqu'à ce que le bacon soit croustillant. [cite_start]Retirer du four et émietter. [cite: 27, 28]
-3. Dans un bol, mélanger les cubes de pain avec l'huile d'olive. [cite_start]Saler et poivrer. [cite: 29]
-4. Sur une autre plaque de cuisson tapissée de papier parchemin, déposer les cubes de pain. [cite_start]Cuire au four de 10 à 12 minutes. [cite: 30, 31]
-5. Dans une casserole d'eau bouillante salée, cuire le brocoli de 1 à 2 minutes. [cite_start]Rincer sous l'eau froide et égoutter. [cite: 32, 33]
-6. Dans un saladier, mélanger la vinaigrette avec le brocoli, les croûtons, la pomme, les noix de Grenoble et le bacon. [cite_start]Parsemer de copeaux de parmesan. [cite: 33, 34]
-
----
 ---
 layout: recipe
 title: "Some Titile"
