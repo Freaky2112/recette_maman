@@ -2,7 +2,7 @@
 layout: recipe
 title: "Miche de pain à la mijoteuse"
 description: "Miche de pain à la mijoteuse"
-category: "Pains"
+category: "Pâtisserie"
 emoji: ":)"
 date: 2025-01-04
 prep_time: "20 min"

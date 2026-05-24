@@ -2,7 +2,7 @@
 layout: recipe
 title: "Salade César au Poulet Grille"
 description: "Salade César au Poulet Grille Delicieux"
-category: "Plat principaux"
+category: "Plats principaux"
 emoji: ":)"
 date: 2025-01-05
 prep_time: "20 min"
