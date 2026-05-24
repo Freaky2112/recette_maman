@@ -9,7 +9,7 @@ prep_time: "15 min"
 cook_time: "0"
 servings: 4
 difficulty: Facile
-tags: [Tomate , Salad]
+tags: [Tomate , Entree]
 ingredients:
   - 1 concombre anglais
   - 12 tomates cocktail de couleurs variées 
