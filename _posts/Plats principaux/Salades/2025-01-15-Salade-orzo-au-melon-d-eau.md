@@ -2,7 +2,7 @@
 layout: recipe
 title: "Salade d'Orzo au Melon d'eau"
 description: "Salade d'orzo au melon d'eau"
-category: "choose one"
+category: "Plats principaux"
 emoji: "🥗"
 date: 2025-01-15
 prep_time: "10 min"

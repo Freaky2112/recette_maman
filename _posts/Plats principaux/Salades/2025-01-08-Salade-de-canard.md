@@ -9,7 +9,7 @@ prep_time: "20 min"
 cook_time: "30 min"
 servings: 4
 difficulty: Facile
-tags: [Salad]
+tags: [Salade]
 ingredients:
   - ( Vinaigrette )
   - 45 ml (3 c. à soupe) d'huile d'olive 

@@ -9,7 +9,7 @@ prep_time: "15 min"
 cook_time: "10 min"
 servings: 4
 difficulty: Facile
-tags: [Salad]
+tags: [Salade]
 ingredients:
   - 8 tranches de bacon à l'érable 
   - 1/4 de baguette de pain coupée en petits cubes 
