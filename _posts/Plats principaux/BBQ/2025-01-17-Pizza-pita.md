@@ -3,7 +3,7 @@ layout: recipe
 title: "Pizza Pita sur le barbecue"
 description: "Pizza en cône sur le barbecue"
 category: "Plats principaux"
-emoji: ":)"
+emoji: "🍕"
 date: 2025-01-17
 prep_time: "15 min"
 cook_time: "10 min"

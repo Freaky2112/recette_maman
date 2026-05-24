@@ -3,7 +3,7 @@ layout: recipe
 title: "Couscous au poulet"
 description: "Couscous au poulet"
 category: "Plats principaux"
-emoji: ":)"
+emoji: "🍛"
 date: 2025-01-18
 prep_time: "15 min"
 cook_time: "12 min"

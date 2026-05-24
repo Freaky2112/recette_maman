@@ -3,7 +3,7 @@ layout: recipe
 title: "Burger de poisson croustillant"
 description: "Burger de poisson croustillant"
 category: "Plats principaux"
-emoji: ":)"
+emoji: "🍔"
 date: 2025-01-19
 prep_time: "15 min"
 cook_time: "20 min"
