@@ -21,7 +21,7 @@ ingredients:
   - 125 ml (1/2 tasse) de noix de Grenoble en morceaux
   - 80 ml (1/3 de tasse) de copeaux de parmesan 
 steps:
-  - [cite_start]Préchauffer le four à 190 °C (375 °F).
+  - Préchauffer le four à 190 °C (375 °F).
   - Sur une plaque de cuisson tapissée de papier parchemin, déposer les tranches de bacon. Cuire au four de 10 à 12 minutes, jusqu'à ce que le bacon soit croustillant. Retirer du four et émietter. 
   - Dans un bol, mélanger les cubes de pain avec l'huile d'olive. Saler et poivrer. 
   - Sur une autre plaque de cuisson tapissée de papier parchemin, déposer les cubes de pain. Cuire au four de 10 à 12 minutes. 
