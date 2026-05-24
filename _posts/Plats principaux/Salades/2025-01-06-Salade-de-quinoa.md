@@ -22,8 +22,7 @@ ingredients:
   - 100 g (3 1/2 oz) de cheddar émietté 
   - 125 ml (1/2 tasse) de vinaigrette érable et balsamique 
  steps:
-  -  Dans une casserole, cuire le quinoa selon les indications de l'emballage. Retirer du feu et laisser tiédir. Saler et poivrer. 
+  - Dans une casserole, cuire le quinoa selon les indications de l'emballage. Retirer du feu et laisser tiédir. Saler et poivrer. 
   - Couper les poivrons en dés. Émincer finement l'oignon rouge. 
   - Dans un saladier, mélanger le quinoa avec les bébés épinards, les poivrons, l'oignon rouge, les bleuets, les framboises, les noix (pacanes), le cheddar et la vinaigrette. 
-
 ---
