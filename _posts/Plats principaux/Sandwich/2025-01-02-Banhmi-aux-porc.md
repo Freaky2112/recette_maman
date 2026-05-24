@@ -3,13 +3,13 @@ layout: recipe
 title: "Baguette Banh mi au porc à fondue"
 description: "Baguette Banh mi au porc à fondue"
 category: "Plats principaux"
-emoji: ":)"
+emoji: "🍔"
 date: 2025-01-02
 prep_time: "50 min"
 cook_time: "4 min"
 servings: 4
 difficulty: Facile
-tags: [Sandwich , Sans noix]
+tags: [Sandwich , Porc , Asiaquite]
 ingredients:
   - 450 g (1 lb) de tranches de porc à fondue 
   - 15 ml (1 c. à soupe) d'huile de sésame (non grillé)
