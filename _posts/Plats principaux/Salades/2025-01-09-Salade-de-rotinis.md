@@ -19,7 +19,7 @@ ingredients:
   - 12 feuilles de basilic 
   - Sel et poivre au goût 
 steps:
-  -  Dans une casserole d'eau bouillante salée, cuire les pâtes al dente. Égoutter et refroidir sous l'eau froide. Égoutter de nouveau. 
+  - Dans une casserole d'eau bouillante salée, cuire les pâtes al dente. Égoutter et refroidir sous l'eau froide. Égoutter de nouveau. 
   - Dans un saladier, mélanger les pâtes avec le prosciutto, les tomates, le pesto et la mozzarella. Saler et poivrer. 
   - Au moment de servir, garnir de feuilles de basilic. 
 ---

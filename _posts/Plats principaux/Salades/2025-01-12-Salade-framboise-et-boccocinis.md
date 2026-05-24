@@ -18,6 +18,6 @@ ingredients:
   - 80 ml (1/3 de tasse) de vinaigrette aux framboises 
   -Sel et poivre au goût
 steps:
-  -  Chauffer une poêle à feu moyen. Faire griller les noix de Grenoble de 3 à 5 minutes en remuant de temps en temps, jusqu'à ce qu'elles soient rôties. Retirer du feu et laisser tiédir. 
+  - Chauffer une poêle à feu moyen. Faire griller les noix de Grenoble de 3 à 5 minutes en remuant de temps en temps, jusqu'à ce qu'elles soient rôties. Retirer du feu et laisser tiédir. 
   - Dans un saladier, mélanger les bébés épinards avec les framboises, les mini-bocconcinis, les noix et la vinaigrette. Saler et poivrer. 
 ---
