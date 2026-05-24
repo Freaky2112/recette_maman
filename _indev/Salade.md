@@ -1,33 +1,26 @@
 
----
-
-## 8. Salade de canard confit, de poire et de grenade
-* **Préparation :** 20 minutes [cite: 215]
-* **Portions :** 4 [cite: 217]
-* **Note :** On peut aussi utiliser de l'agneau ou de la dinde confite. [cite: 233]
-* **Accord vin :** Pinot Noir (Chili, Californie ou Nouvelle-Zélande) [cite: 234, 235]
-
-### Ingrédients
-**Vinaigrette :**
-* 45 ml (3 c. à soupe) d'huile d'olive [cite: 218]
-* 30 ml (2 c. à soupe) de vinaigre balsamique [cite: 219, 220]
-* 15 ml (1 c. à soupe) de moutarde de Dijon [cite: 221]
-* 1/2 gousse d'ail hachée finement [cite: 222]
-* Sel et poivre [cite: 223]
-
-**Salade :**
-* 142 g (6 tasses) de mélange de laitues [cite: 225]
-* 1 poire, épépinée, coupée en fines lanières et légèrement citronnée [cite: 226]
-* 2 cuisses de canard confites, désossées et tièdes [cite: 227]
-* 85 g (1/2 tasse) de grains de grenade [cite: 228]
-* 50 g (1/2 tasse) de pacanes grillées, concassées [cite: 229]
-
-### Préparation
-1. **Pour la vinaigrette :** Dans un grand bol, mélanger tous les ingrédients au fouet. Saler et poivrer. [cite: 230]
-2. **Pour la salade :** Ajouter le mélange de laitues et la poire à la vinaigrette. Mélanger délicatement. [cite: 231]
-3. Répartir dans 4 assiettes. Garnir du canard. Parsemer de grains de grenade et de pacanes. [cite: 232]
 
 ---
+layout: recipe
+title: "Some Titile"
+description: "Sweet Description"
+category: "choose one"
+emoji: ":)"
+date: yyyy-mm-dd
+prep_time: "20 min"
+cook_time: "4 h"
+servings: 30
+difficulty: Facile
+tags: [Tomate , Condiments]
+ingredients:
+- 1 ingedients 
+- 1 ingedients
+- 1 ingedients 
+- 1 ingedients 
+steps:
+  - etape de prepation 
+notes:
+  - explications supplementaire...
 
 ## 9. Salade de rotinis au pesto, tomates et prosciutto
 * **Préparation :** 10 minutes [cite: 239]
@@ -47,9 +40,32 @@
 1. Dans une casserole d'eau bouillante salée, cuire les pâtes al dente. Égoutter et refroidir sous l'eau froide. Égoutter de nouveau. [cite: 236]
 2. Dans un saladier, mélanger les pâtes avec le prosciutto, les tomates, le pesto et la mozzarella. Saler et poivrer. [cite: 236]
 3. Au moment de servir, garnir de feuilles de basilic. [cite: 236]
-
 ---
 
+
+
+---
+layout: recipe
+title: "Some Titile"
+description: "Sweet Description"
+category: "choose one"
+emoji: ":)"
+date: yyyy-mm-dd
+prep_time: "20 min"
+cook_time: "4 h"
+servings: 30
+difficulty: Facile
+tags: [Tomate , Condiments]
+ingredients:
+- 1 ingedients 
+- 1 ingedients
+- 1 ingedients 
+- 1 ingedients 
+steps:
+  - etape de prepation 
+notes:
+  - explications supplementaire...
+---
 ## 10. Carpaccio de tomates et concombre
 * **Préparation :** 15 minutes [cite: 254]
 * **Quantité :** 4 portions [cite: 255]
@@ -84,7 +100,28 @@
 
 
 # Complément de Recettes et Préparations Culindaires
-
+---
+layout: recipe
+title: "Some Titile"
+description: "Sweet Description"
+category: "choose one"
+emoji: ":)"
+date: yyyy-mm-dd
+prep_time: "20 min"
+cook_time: "4 h"
+servings: 30
+difficulty: Facile
+tags: [Tomate , Condiments]
+ingredients:
+- 1 ingedients 
+- 1 ingedients
+- 1 ingedients 
+- 1 ingedients 
+steps:
+  - etape de prepation 
+notes:
+  - explications supplementaire...
+---
 ## 11. Salade de brocoli à la César
 * [cite_start]**Préparation :** 15 minutes [cite: 5]
 * [cite_start]**Cuisson :** 10 minutes [cite: 6]
@@ -121,7 +158,28 @@
 6. Dans un saladier, mélanger la vinaigrette avec le brocoli, les croûtons, la pomme, les noix de Grenoble et le bacon. [cite_start]Parsemer de copeaux de parmesan. [cite: 33, 34]
 
 ---
-
+---
+layout: recipe
+title: "Some Titile"
+description: "Sweet Description"
+category: "choose one"
+emoji: ":)"
+date: yyyy-mm-dd
+prep_time: "20 min"
+cook_time: "4 h"
+servings: 30
+difficulty: Facile
+tags: [Tomate , Condiments]
+ingredients:
+- 1 ingedients 
+- 1 ingedients
+- 1 ingedients 
+- 1 ingedients 
+steps:
+  - etape de prepation 
+notes:
+  - explications supplementaire...
+---
 ## 12. Salade de framboises, noix et bocconcinis
 * [cite_start]**Préparation :** 15 minutes [cite: 40]
 * [cite_start]**Cuisson :** 3 minutes [cite: 41]
@@ -151,7 +209,28 @@
 2. Dans un saladier, mélanger les bébés épinards avec les framboises, les mini-bocconcinis, les noix et la vinaigrette. [cite_start]Saler et poivrer. [cite: 53, 54]
 
 ---
-
+---
+layout: recipe
+title: "Some Titile"
+description: "Sweet Description"
+category: "choose one"
+emoji: ":)"
+date: yyyy-mm-dd
+prep_time: "20 min"
+cook_time: "4 h"
+servings: 30
+difficulty: Facile
+tags: [Tomate , Condiments]
+ingredients:
+- 1 ingedients 
+- 1 ingedients
+- 1 ingedients 
+- 1 ingedients 
+steps:
+  - etape de prepation 
+notes:
+  - explications supplementaire...
+---
 ## 13. Salade de concombre, melon et feta
 * [cite_start]**Préparation :** 20 minutes [cite: 59]
 * [cite_start]**Portions :** 4 [cite: 58]
@@ -189,7 +268,28 @@
 3. Ajouter le concombre, le melon d'eau, l'oignon rouge, la feta et la mâche dans le saladier. [cite_start]Remuer délicatement et garnir de feuilles de menthe. [cite: 83, 87]
 
 ---
-
+---
+layout: recipe
+title: "Some Titile"
+description: "Sweet Description"
+category: "choose one"
+emoji: ":)"
+date: yyyy-mm-dd
+prep_time: "20 min"
+cook_time: "4 h"
+servings: 30
+difficulty: Facile
+tags: [Tomate , Condiments]
+ingredients:
+- 1 ingedients 
+- 1 ingedients
+- 1 ingedients 
+- 1 ingedients 
+steps:
+  - etape de prepation 
+notes:
+  - explications supplementaire...
+---
 ## 14. Salade de poulet et pêches grillées
 * [cite_start]**Préparation :** 20 minutes [cite: 94]
 * [cite_start]**Marinage :** 3 heures [cite: 94]
@@ -231,7 +331,28 @@
 7. [cite_start]Dans un saladier, mélanger la vinaigrette réservée avec la roquette, les bleuets, le fromage de chèvre, les pêches et le poulet. [cite: 135]
 
 ---
-
+---
+layout: recipe
+title: "Some Titile"
+description: "Sweet Description"
+category: "choose one"
+emoji: ":)"
+date: yyyy-mm-dd
+prep_time: "20 min"
+cook_time: "4 h"
+servings: 30
+difficulty: Facile
+tags: [Tomate , Condiments]
+ingredients:
+- 1 ingedients 
+- 1 ingedients
+- 1 ingedients 
+- 1 ingedients 
+steps:
+  - etape de prepation 
+notes:
+  - explications supplementaire...
+---
 ## 15. Watermelon Orzo Salad *(Salade d'orzo au melon d'eau)*
 * [cite_start]**Source :** Colavita Recipes [cite: 187]
 
