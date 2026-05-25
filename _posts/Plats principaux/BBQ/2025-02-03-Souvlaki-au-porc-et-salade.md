@@ -3,7 +3,7 @@ layout: recipe
 title: "Souvlakis de porc et salade grecque"
 description: "Souvlakis de porc et salade grecque"
 category: "Plats principaux"
-emoji: ":)"
+emoji: "🥗"
 date: 2025-02-03
 prep_time: "25 min"
 cook_time: "10 min"
@@ -19,7 +19,7 @@ ingredients:
   - 500 ml (2 tasses) de laitue romaine déchiquetée
   - 16 olives Kalamata coupées en morceaux
   - 1 petit oignon rouge émincé
-  - ( La Vinaigrette )
+  - "- VINAIGRETTE -"
   - 60 ml (¼ de tasse) d'huile d'olive
   - 60 ml (¼ de tasse) de jus d'orange
   - 45 ml (3 c. à soupe) de persil haché
