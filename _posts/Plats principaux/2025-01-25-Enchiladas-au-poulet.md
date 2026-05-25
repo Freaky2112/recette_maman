@@ -9,7 +9,7 @@ prep_time: "min"
 cook_time: "min"
 servings: 4 - 6
 difficulty: Facile
-tags: [Voilaille]
+tags: [Volaille]
 ingredients:
   - 2 poitrines de poulet (ou lanières)
   - Huile (pour faire revenir)

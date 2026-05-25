@@ -9,7 +9,7 @@ prep_time: "15 min"
 cook_time: "12 min"
 servings: 4
 difficulty: Facile
-tags: [Volailles]
+tags: [Volaille]
 ingredients:
   - 15 ml (1 c. à soupe) d'huile d'olive
   - 4 poitrines de poulet sans peau
