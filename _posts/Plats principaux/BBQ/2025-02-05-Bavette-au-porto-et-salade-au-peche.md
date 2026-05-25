@@ -3,7 +3,7 @@ layout: recipe
 title: "Bavettes au porto et vinaigre balsamique"
 description: "Bavettes au porto et vinaigre balsamique"
 category: "Plats principaux"
-emoji: ":)"
+emoji: "🥗"
 date: 2025-02-05
 prep_time: "1h25 - 8h25"
 cook_time: "7 min"
@@ -12,14 +12,14 @@ difficulty: Facile
 tags: [Boeuf , Salades , BBQ]
 ingredients:
   - 4 bavettes de bœuf AAA de 227 g chacune, décongelées
-  - ( La Marinade )
+  - "- La Marinade -"
   - 125 ml (½ tasse) de porto
   - 45 ml (3 c. à soupe) de vinaigre balsamique
   - 30 ml (2 c. à soupe) de miel
   - 10 ml (2 c. à thé) de thym frais haché
   - 1 échalote sèche (française) hachée
   - Sel et poivre au goût
-  - ( Salade aux pêches grillées )
+  - "- Salade aux pêches grillées -"
   - 2 pêches coupées en deux
   - 1 litre (4 tasses) de roquette
   - 45 ml (3 c. à soupe) d'huile d'olive
@@ -36,3 +36,4 @@ steps:
   - Griller les bavettes 6 à 8 minutes en les retournant à mi-cuisson. Laisser reposer sous un papier d'aluminium 5 minutes avant de trancher.
   - Griller la face coupée des pêches pendant 1 à 2 minutes, puis les couper en quartiers.
   - Mélanger les ingrédients restants de la salade dans un bol, garnir avec les pêches grillées et servir avec la viande.
+---
