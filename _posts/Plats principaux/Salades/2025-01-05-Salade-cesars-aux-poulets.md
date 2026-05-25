@@ -9,7 +9,7 @@ prep_time: "20 min"
 cook_time: "15 - 20"
 servings: 4 - 6
 difficulty: Facile
-tags: [Poulet , Salade]
+tags: [Volailles , Salade]
 ingredients:
   - ( Poulet )
   - 2 blancs de poulet de 200 g 
