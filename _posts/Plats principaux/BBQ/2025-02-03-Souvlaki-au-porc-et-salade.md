@@ -29,7 +29,7 @@ ingredients:
   - 15 ml (1 c. à soupe) d'ail haché
   - 3 oignons verts hachés
   - Sel et poivre au goût
- steps:
+steps:
   - Monter les cubes de porc sur des brochettes et les cuire de 8 à 10 minutes à la poêle ou au barbecue, jusqu'à cuisson complète.
   - Dans un grand saladier, combiner la laitue, les tomates, le poivron, les concombres, l'oignon rouge, les olives et la feta.
   - Fouetter tous les ingrédients de la vinaigrette ensemble, verser sur la salade et servir avec les brochettes de souvlakis chaudes.
