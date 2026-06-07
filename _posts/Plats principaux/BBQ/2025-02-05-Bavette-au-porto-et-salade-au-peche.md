@@ -31,9 +31,9 @@ ingredients:
   - 1 ½ petit oignon rouge émincé
   - Sel et poivre au goût
 steps:
-  - Dans un sac hermétique, mélanger les ingrédients de la marinade. Ajouter les bavettes, retirer l'air et sceller. Laisser mariner de 1 à 8 heures au frais.
-  - Préchauffer le barbecue à puissance moyenne-élevée (environ 220 °C / 425 °F). Égoutter les bavettes et jeter la marinade.
-  - Griller les bavettes 6 à 8 minutes en les retournant à mi-cuisson. Laisser reposer sous un papier d'aluminium 5 minutes avant de trancher.
-  - Griller la face coupée des pêches pendant 1 à 2 minutes, puis les couper en quartiers.
-  - Mélanger les ingrédients restants de la salade dans un bol, garnir avec les pêches grillées et servir avec la viande.
+  - "Dans un sac hermétique, mélanger les ingrédients de la marinade. Ajouter les bavettes, retirer l'air et sceller. Laisser mariner de 1 à 8 heures au frais."
+  - "Préchauffer le barbecue à puissance moyenne-élevée (environ 220 °C / 425 °F). Égoutter les bavettes et jeter la marinade."
+  - "Griller les bavettes 6 à 8 minutes en les retournant à mi-cuisson. Laisser reposer sous un papier d'aluminium 5 minutes avant de trancher."
+  - "Griller la face coupée des pêches pendant 1 à 2 minutes, puis les couper en quartiers."
+  - "Mélanger les ingrédients restants de la salade dans un bol, garnir avec les pêches grillées et servir avec la viande."
 ---

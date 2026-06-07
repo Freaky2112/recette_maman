@@ -3,6 +3,14 @@
     <a href="{{ '/' | relative_url }}" class="site-title">
       <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="Les Recettes de Maman" class="site-logo" />
     </a>
+
+    <!-- Search bar (desktop) -->
+    <div class="header-search" id="header-search">
+      <input type="text" id="search-input-header" class="search-input-header" placeholder="Rechercher une recette..." autocomplete="off" />
+      <span class="search-icon">🔍</span>
+      <div class="search-dropdown" id="search-dropdown"></div>
+    </div>
+
     <button class="nav-toggle" id="nav-toggle" aria-label="Ouvrir le menu" aria-expanded="false">
       <span></span>
       <span></span>
@@ -12,6 +20,9 @@
       <li><a href="{{ '/' | relative_url }}" {% if page.url == '/' %}class="active"{% endif %}>Accueil</a></li>
       <li><a href="{{ '/recettes/' | relative_url }}" {% if page.url contains '/recettes/' %}class="active"{% endif %}>Recettes</a></li>
       <li><a href="{{ '/a-propos/' | relative_url }}" {% if page.url == '/a-propos/' %}class="active"{% endif %}>À propos</a></li>
+      <li class="desktop-search-nav"><a href="{{ '/recherche/' | relative_url }}" {% if page.url == '/recherche/' %}class="active"{% endif %}>Recherche</a></li>
+      <!-- Mobile search link -->
+      <li class="mobile-search-link"><a href="{{ '/recherche/' | relative_url }}">🔍 Rechercher</a></li>
     </ul>
   </nav>
 </header>

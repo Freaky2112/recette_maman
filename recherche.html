@@ -1,0 +1,25 @@
+---
+layout: default
+title: Recherche
+permalink: /recherche/
+---
+
+<div class="page-wrapper">
+  <h2 class="section-title">Rechercher une recette</h2>
+  <hr class="section-rule" />
+
+  <div class="search-box-large">
+    <input type="text" id="search-input-page" class="search-input-large" placeholder="Taper un ingrédient, une recette..." autocomplete="off" />
+    <span class="search-icon-large">🔍</span>
+  </div>
+
+  <p id="search-status" style="color: var(--text-light); font-style: italic; margin-bottom: 1.5rem;"></p>
+
+  <div class="recipe-grid" id="search-results"></div>
+
+  <div id="search-empty" style="display:none; text-align:center; padding: 3rem 0; color: var(--text-light);">
+    <p style="font-size: 2rem;">🍽️</p>
+    <p>Aucune recette trouvée pour "<span id="empty-query"></span>"</p>
+    <p style="margin-top:0.5rem; font-size:0.9rem;">Essayez un autre mot-clé ou parcourez <a href="{{ '/recettes/' | relative_url }}">toutes les recettes</a>.</p>
+  </div>
+</div>
