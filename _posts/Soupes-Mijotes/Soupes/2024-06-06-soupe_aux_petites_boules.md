@@ -9,7 +9,7 @@ prep_time: "10 min"
 cook_time: "1.5 hrs"
 servings: 4 -6
 difficulty: Moyen
-tags: [Soupes]
+tags: [Soupes , Poulet]
 ingredients:
   - 1 Carcass de poulet ou dinde
   - 1 feuille de laurier

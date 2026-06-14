@@ -9,7 +9,7 @@ prep_time: "10 min"
 cook_time: "15 min"
 servings: 4
 difficulty: Facile
-tags: [Sandwich]
+tags: [Sandwich , Fromage]
 ingredients:
   - 30 mL (2 c. à soupe) de beurre
   - 1 oignon, grossièrement haché

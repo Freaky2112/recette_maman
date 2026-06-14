@@ -9,7 +9,7 @@ prep_time: "15 min"
 cook_time: "3 h"
 servings: 4 -6 
 difficulty: Facile
-tags: []
+tags: [Boeuf]
 ingredients:
   - 3 lb de bœuf dans la poitrine (rôti de palette)
   - 1 lb de lard salé entrelardé

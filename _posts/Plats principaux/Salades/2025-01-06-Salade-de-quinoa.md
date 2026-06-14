@@ -9,7 +9,7 @@ prep_time: "20 min"
 cook_time: "12 min"
 servings: 4
 difficulty: Facile
-tags: [Salade]
+tags: [Salade , Quinoa]
 ingredients:
   - 250 ml (1 tasse) de quinoa, rincé et égoutté 
   - Sel et poivre du moulin au goût 

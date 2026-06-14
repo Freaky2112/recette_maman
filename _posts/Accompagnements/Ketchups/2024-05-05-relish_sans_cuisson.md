@@ -9,7 +9,7 @@ prep_time: "10 min"
 cook_time: "0"
 servings: 30
 difficulty: Facile
-tags: [Condiments]
+tags: [Relish , Condiments]
 ingredients:
   - 8 Tomates vertes 
   - 8 Gros oignons 

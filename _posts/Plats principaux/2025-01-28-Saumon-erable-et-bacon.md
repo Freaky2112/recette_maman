@@ -9,7 +9,7 @@ prep_time: "45 min"
 cook_time: "15 min"
 servings: 4
 difficulty: Facile
-tags: [Poisson]
+tags: [Poisson , Erable]
 ingredients:
   - 4 filets de saumon de 150 g (peau enlevée)
   - 30 ml (2 c. à soupe) de sucre d'érable

@@ -9,7 +9,7 @@ prep_time: "10 min"
 cook_time: "15-20 min"
 servings: 12
 difficulty: Facile
-tags: [Muffins]
+tags: [Muffins , Gruau]
 ingredients:
   - 1 tasse de gruau (250 ml)
   - 1 tasse de lait (250 ml)

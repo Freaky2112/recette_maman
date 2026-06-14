@@ -9,7 +9,7 @@ prep_time: "10 min"
 cook_time: "0"
 servings: 4
 difficulty: Facile
-tags: [Salade]
+tags: [Salade , Pommes , Fruits]
 ingredients:
   - 30 ml (2 c. à soupe) de mayonnaise 
   - 30 ml (2 c. à soupe) de crème sure 

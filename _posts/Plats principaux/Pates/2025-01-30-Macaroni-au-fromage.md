@@ -9,7 +9,7 @@ prep_time: "10 min"
 cook_time: "15 min"
 servings: 4
 difficulty: Facile
-tags: [Pates]
+tags: [Pates , Fromage]
 ingredients:
   - 1 oignon, haché finement
   - 30 ml (2 c. à soupe) de beurre

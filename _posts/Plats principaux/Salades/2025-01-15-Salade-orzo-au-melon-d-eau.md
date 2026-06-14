@@ -9,7 +9,7 @@ prep_time: "10 min"
 cook_time: "10 min"
 servings: 4
 difficulty: Facile
-tags: [Salade]
+tags: [Salade , Pate]
 ingredients:
   - 1 tasse d'orzo Colavita 
   - 4 tasses de melon d'eau coupé en dés 

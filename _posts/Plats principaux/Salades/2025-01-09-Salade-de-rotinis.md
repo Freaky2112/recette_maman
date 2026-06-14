@@ -9,7 +9,7 @@ prep_time: "10 min"
 cook_time: "10 min"
 servings: 4
 difficulty: Facile
-tags: [Salade]
+tags: [Salade , Tomates , Pesto]
 ingredients:
   - 1 litre (4 tasses) de rotinis 
   - 8 tranches de prosciutto coupées en morceaux 

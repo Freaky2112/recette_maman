@@ -9,7 +9,7 @@ prep_time: "10 min"
 cook_time: "45 min"
 servings: 4 - 6
 difficulty: Facile
-tags: []
+tags: [Boeuf ]
 ingredients:
   - 1 lb de viande hachée
   - ½ paquet de biscuit soda

@@ -9,7 +9,7 @@ prep_time: "15 min"
 cook_time: "20 min"
 servings: 4
 difficulty: Facile
-tags: [Poisson]
+tags: [Poisson , Sandwich]
 ingredients:
   - 8 filets d'aiglefin panés croustillants surgelés (de type High Liner)
   - 4 pains hamburger

@@ -9,7 +9,7 @@ prep_time: "3:20 h"
 cook_time: "20 min"
 servings: 30
 difficulty: Facile
-tags: [Salade]
+tags: [Salade , Poulet , Fruits]
 ingredients:
   - 4 petites poitrines de poulet sans peau 
   - 3 pêches coupées en quartiers 

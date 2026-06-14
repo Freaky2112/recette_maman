@@ -9,7 +9,7 @@ prep_time: "25 min"
 cook_time: "5 h"
 servings: 4
 difficulty: Facile
-tags: [Veaux]
+tags: [Veaux , Fromage]
 ingredients:
   - 1 œuf
   - 375 ml (1 ½ tasse) de mozzarella râpée

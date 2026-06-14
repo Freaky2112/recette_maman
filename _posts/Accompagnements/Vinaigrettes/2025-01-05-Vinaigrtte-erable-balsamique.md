@@ -9,7 +9,7 @@ prep_time: "5 min"
 cook_time: "0"
 servings: 4 - 6
 difficulty: Facile
-tags: [Vinaigrette]
+tags: [Vinaigrette , Erable]
 ingredients:
   - 80 ml (1/3 de tasse) d'huile d'olive 
   - 45 ml (3 c. à soupe) de sirop d'érable 

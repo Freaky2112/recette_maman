@@ -9,7 +9,7 @@ prep_time: "15 min"
 cook_time: "1:10 hrs"
 servings: 4 -6
 difficulty: Moyen
-tags: [Soupes]
+tags: [Soupes , Poulet]
 ingredients:
   - 375 ml (1 tasse) de lardons
   - 1 oignon haché

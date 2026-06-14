@@ -9,7 +9,7 @@ prep_time: "20 - 25 min"
 cook_time: "30 -40 min"
 servings: 8 - 10
 difficulty: Facile
-tags: [A-cote , Patate]
+tags: [A-cote , Patate , Poulet]
 ingredients:
   - 4 tasses de poulet cuit, effiloché ou coupé en dés 
   - 1 boîte (300 g) de crème de poulet 

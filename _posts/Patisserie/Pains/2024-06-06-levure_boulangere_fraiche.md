@@ -9,7 +9,7 @@ prep_time: "5 min"
 cook_time: "8 - 12 hrs"
 servings: 50g
 difficulty: Facile
-tags: [Pains]
+tags: [Pains , Levure]
 ingredients:
   - 100 ml de bière
   - 1 cuillère à café de sucre fin

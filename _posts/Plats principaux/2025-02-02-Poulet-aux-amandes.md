@@ -9,7 +9,7 @@ prep_time: "15 min"
 cook_time: "6 - 10 min"
 servings: 2
 difficulty: Facile
-tags: [Volaille]
+tags: [Poulet , Noix]
 ingredients:
   - 2 poitrines de poulet désossées
   - 1 c. à thé de fécule de maïs

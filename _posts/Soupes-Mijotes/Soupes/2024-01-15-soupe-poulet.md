@@ -9,7 +9,7 @@ prep_time: "20 min"
 cook_time: "2 h"
 servings: 6
 difficulty: Facile
-tags: [Volaille, Hiver]
+tags: [Poulet, Hiver]
 ingredients:
   - 1 poulet entier (environ 1,8 kg)
   - 3 carottes, épluchées et tranchées

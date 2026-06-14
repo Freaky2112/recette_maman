@@ -9,7 +9,7 @@ prep_time: "15 min"
 cook_time: "20 min"
 servings: 4
 difficulty: Facile
-tags: [Sandwich]
+tags: [Sandwich , Poulet]
 ingredients:
   - 2 petites baguettes de pain ciabatta
   - 375 ml (1 ½ tasse) de sauce marinara

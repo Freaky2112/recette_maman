@@ -9,7 +9,7 @@ prep_time: "20 min"
 cook_time: "2 h"
 servings: 8
 difficulty: Facile
-tags: [Condiments]
+tags: [Condiments , ]
 ingredients:
   - 1 paquet de fromage à la crème (de 250 g), ramolli
   - 1 pot de tartinade au fromage fondu (type Le Petit Crémeux) de 400 g

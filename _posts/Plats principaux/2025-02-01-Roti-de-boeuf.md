@@ -9,7 +9,7 @@ prep_time: "5 min"
 cook_time: "17 min / lbs"
 servings: 30
 difficulty: Facile
-tags: []
+tags: [Boeauf , Roti]
 ingredients:
   - 1 pièce de rôti de bœuf
   - ¼ de tasse de beurre

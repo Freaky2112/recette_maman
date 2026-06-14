@@ -9,7 +9,7 @@ prep_time: "20 min"
 cook_time: "3 h"
 servings: 4
 difficulty: Facile
-tags: [Tomate , Condiments]
+tags: [Porc]
 ingredients:
   - 675 g (environ 1 ½ lb) de filet de porc
   - 15 ml (1 c. à soupe) d'huile d'olive

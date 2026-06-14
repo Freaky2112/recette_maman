@@ -9,7 +9,7 @@ prep_time: "5 min"
 cook_time: "25 - 30 min"
 servings: 0
 difficulty: Facile
-tags: [Sauce]
+tags: [Sauce , Echalote]
 ingredients:
   - ¼ de beurre
   - 6 échalotes françaises
