@@ -34,7 +34,7 @@ steps:
   - Cuire au four à 325F.
   
 notes:
-   - "Pour un moule rectangulaire :" 50 à 60 minutes.
-   - "Pour des moules carrés :" 35 à 40 minutes.
-   - Servir chaud ou froid avec de la crème fouettée ou un glaçage au fromage à la crème.
+  - "Pour un moule rectangulaire :" 50 à 60 minutes.
+  - "Pour des moules carrés :" 35 à 40 minutes.
+  - Servir chaud ou froid avec de la crème fouettée ou un glaçage au fromage à la crème.
 ---
