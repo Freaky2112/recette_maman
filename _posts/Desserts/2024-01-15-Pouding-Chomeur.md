@@ -25,7 +25,7 @@ ingredients:
 - 3\4 tasse de lait
 
 steps:
-- Préparation du sirop : Dans une casserole, faire bouillir le sirop (eau et cassonade) pendant 10 minutes. Laisser tiédir.
-- Préparation de la pâte à gâteau : Mélanger les ingrédients secs (farine, sucre, poudre à pâte, sel). Ajouter la graisse et mélanger jusqu'à l'obtention d'une texture de petits pois. Mélanger le lait et l'œuf battu, puis les ajouter au mélange sec.
-- Assemblage : Déposer la pâte à gâteau dans un moule, puis verser délicatement le sirop tiédi par-dessus.
-- Cuisson : Cuire au four préchauffé à $350F pendant 1 heure.
+- "Préparation du sirop :" Dans une casserole, faire bouillir le sirop (eau et cassonade) pendant 10 minutes. Laisser tiédir.
+- "Préparation de la pâte à gâteau :" Mélanger les ingrédients secs (farine, sucre, poudre à pâte, sel). Ajouter la graisse et mélanger jusqu'à l'obtention d'une texture de petits pois. Mélanger le lait et l'œuf battu, puis les ajouter au mélange sec.
+- "Assemblage :" Déposer la pâte à gâteau dans un moule, puis verser délicatement le sirop tiédi par-dessus.
+- "Cuisson :" Cuire au four préchauffé à $350F pendant 1 heure.
