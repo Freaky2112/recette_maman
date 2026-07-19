@@ -9,7 +9,7 @@ prep_time: "20 min"
 cook_time: ""
 servings: 10
 difficulty: Facile
-tags: [Chocolat, Gateau , Froid]
+tags: [Chocolat , Gateau , Froid]
 ingredients:
   - 500 ml de crème fouettée
   - 3 c. à table de chocolat en poudre
