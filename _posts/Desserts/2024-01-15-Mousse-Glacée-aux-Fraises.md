@@ -2,14 +2,14 @@
 layout: recipe
 title: "Mousse Glacée aux Fraises"
 description: "Un dessert glacé, frais et onctueux à base de fraises fraîches."
-category: "Dessert"
+category: "Desserts"
 emoji: "🥫"
 date: 2024-01-15
 prep_time: "5 min"
 cook_time: "15 min"
 servings: 6 -8 
 difficulty: Facile
-tags: [Mousse , Dessert]
+tags: [Mousse , Desserts]
 ingredients:
 - 3 tasses de fraises fraîches
 - 2 blancs d'œufs

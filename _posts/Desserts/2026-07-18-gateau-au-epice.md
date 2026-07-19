@@ -2,14 +2,14 @@
 layout: recipe
 title: "Gâteau aux Épices Gourmet"
 description: "Gâteau aux Épices Gourmet"
-category: "Gateau"
+category: "Desserts"
 emoji: ":)"
 date: 2026-07-18
 prep_time: "20 min"
 cook_time: "35 à 60 min"
 servings: 6-8
 difficulty: Facile
-tags: [Dessert , Gateau]
+tags: [Desserts , Gateau]
 ingredients:
 - 2 1\2 tasses de farine
 - 2 c. à thé de poudre à pâte

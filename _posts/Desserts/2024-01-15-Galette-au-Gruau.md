@@ -2,14 +2,14 @@
 layout: recipe
 title: "Galettes au Gruau"
 description: "Voici une délicieuse recette de bonne galette au gruau que les enfants et les grands adoreront! Tellement simple à faire!"
-category: "Dessert"
+category: "Desserts"
 emoji: "🥫"
 date: 2024-01-15
 prep_time: "5 min"
 cook_time: "15 min"
 servings: 30
 difficulty: Facile
-tags: [Biscuit , Gallette , Dessert]
+tags: [Biscuit , Gallette , Desserts]
 ingredients:
 * 1\2 tasse de margarine (ou beurre)
 * 1 1\4 tasse de cassonade

@@ -2,14 +2,14 @@
 layout: recipe
 title: "Pouding Chômeur"
 description: "Une recette classique et économique, typique du patrimoine culinaire québécois."
-category: "Dessert"
+category: "Desserts"
 emoji: "🥫"
 date: 2024-01-15
 prep_time: "5 min"
 cook_time: "15 min"
 servings: 6 -8 
 difficulty: Facile
-tags: [Pouding , Dessert]
+tags: [Pouding , Desserts]
 ingredients:
 - "- Sirop -"
 - 1 3\4 tasse de cassonade
