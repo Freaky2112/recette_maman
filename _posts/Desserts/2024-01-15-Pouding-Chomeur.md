@@ -11,11 +11,11 @@ servings: 6 -8
 difficulty: Facile
 tags: [Pouding , Dessert]
 ingredients:
-Sirop
+- "- Sirop -"
 - 1 3\4 tasse de cassonade
 - 1 3\4 tasse d'eau
 
-Gâteau
+- "- Gâteau -"
 - 1 1\3 tasse de farine
 - 3\4 tasse de sucre
 - 3 c. à thé de poudre à pâte
