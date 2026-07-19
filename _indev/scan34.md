@@ -1,34 +1,4 @@
-# Recettes de Gâteaux et Glaçages
 
-## 1. Gâteau aux Épices Gourmet
-
-### Ingrédients
-* $2 \frac{1}{2}$ tasses de farine
-* 2 c. à thé de poudre à pâte
-* 1 c. à thé de shortening
-* 1 tasse de cassonade
-* 1 tasse de mélasse
-* 1 c. à thé de gingembre
-* $\frac{1}{2}$ c. à thé de sel
-* $\frac{1}{2}$ c. à thé de muscade
-* $\frac{1}{2}$ c. à thé de cannelle
-* 1 tasse d'eau bouillante
-* 1 c. à thé de soda à pâte (bicarbonate de soude)
-* 2 œufs bien battus
-
-### Préparation
-1. Mélanger la farine, la poudre à pâte et le gingembre. Réserver.
-2. Défaire le shortening et la cassonade en crème, puis y amalgamer la mélasse, le sel, la muscade et la cannelle.
-3. Verser l'eau bouillante sur le soda à pâte, puis ajouter ce liquide au mélange crémeux.
-4. Incorporer le tout aux ingrédients secs et bien mélanger.
-5. Ajouter les œufs battus et bien mélanger à nouveau.
-6. Verser dans un moule de $9 \times 13 \times 2$ pouces graissé et fariné (ou dans 2 moules carrés de 8 pouces).
-7. Cuire au four à $325^{\circ}\text{F}$.
-   * Pour un moule rectangulaire : 50 à 60 minutes.
-   * Pour des moules carrés : 35 à 40 minutes.
-8. Servir chaud ou froid avec de la crème fouettée ou un glaçage au fromage à la crème.
-
----
 
 ## 2. Gâteau Compote de Pommes
 
