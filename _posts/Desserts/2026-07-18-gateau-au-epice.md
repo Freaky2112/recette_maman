@@ -11,18 +11,18 @@ servings: 6-8
 difficulty: Facile
 tags: [Desserts , Gateau]
 ingredients:
-- 2 1\2 tasses de farine
-- 2 c. à thé de poudre à pâte
-- 1 c. à thé de shortening
-- 1 tasse de cassonade
-- 1 tasse de mélasse
-- 1 c. à thé de gingembre
-- 1\2 c. à thé de sel
-- 1\2 c. à thé de muscade
-- 1\2 c. à thé de cannelle
-- 1 tasse d'eau bouillante
-- 1 c. à thé de soda à pâte (bicarbonate de soude)
-- 2 œufs bien battus
+  - 2 1\2 tasses de farine
+  - 2 c. à thé de poudre à pâte
+  - 1 c. à thé de shortening
+  - 1 tasse de cassonade
+  - 1 tasse de mélasse
+  - 1 c. à thé de gingembre
+  - 1\2 c. à thé de sel
+  - 1\2 c. à thé de muscade
+  - 1\2 c. à thé de cannelle
+  - 1 tasse d'eau bouillante
+  - 1 c. à thé de soda à pâte (bicarbonate de soude)
+  - 2 œufs bien battus
   
 steps:
   - Mélanger la farine, la poudre à pâte et le gingembre. Réserver.
