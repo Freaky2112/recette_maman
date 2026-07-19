@@ -20,3 +20,13 @@ steps:
 notes:
   - explications supplementaire...
 ---
+
+in config.yml
+
+  - Petit-déjeuner
+  - Soupes & Mijotés
+  - Plats principaux
+  - Accompagnements
+  - Desserts
+  - Pâtisserie
+  - Boissons
