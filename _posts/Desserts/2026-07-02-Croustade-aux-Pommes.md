@@ -17,7 +17,6 @@ ingredients:
   - 30 mL (2 c. à table) de jus de citron
   - 125 mL ($\frac{1}{2}$ tasse) de sucre
   - 2 mL ($\frac{1}{2}$ c. à thé) de cannelle
-
   - "- Mélange de la Pâte -"
   - 150 mL 2\3 tasse de farine
   - 500 mL 2 tasses de gruau
