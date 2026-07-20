@@ -3,7 +3,7 @@ layout: recipe
 title: "Enchiladas au poulet"
 description: "Enchiladas au poulet"
 category: "Plats principaux"
-emoji: ""
+emoji: "🫔"
 date: 2025-01-25
 prep_time: "min"
 cook_time: "min"

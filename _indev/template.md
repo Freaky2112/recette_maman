@@ -30,3 +30,16 @@ in config.yml
   - Desserts
   - Pâtisserie
   - Boissons
+
+
+🌽
+🍝
+🍜
+🍖
+🍗
+🥓
+🍤
+🍓
+🥔
+🫔 
+🥣

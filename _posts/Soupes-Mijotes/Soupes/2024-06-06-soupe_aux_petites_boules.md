@@ -3,7 +3,7 @@ layout: recipe
 title: "Soupe aux petites boules"
 description: "Soupe aux petites boules"
 category: "Plats principaux"
-emoji: "🍲"
+emoji: "🥣"
 date: 2024-01-07
 prep_time: "10 min"
 cook_time: "1.5 hrs"
