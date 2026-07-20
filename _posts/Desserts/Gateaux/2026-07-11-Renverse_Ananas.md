@@ -43,5 +43,5 @@ steps:
   - Étendre la pâte uniformément par-dessus les tranches d'ananas dans le moule.
   - Cuire au four pendant 45 minutes.
   - Dès la sortie du four, renverser délicatement le gâteau sur une assiette de service pour que les ananas se retrouvent sur le dessus.
-Notes:
+notes:
   - la numérisation indique 1/3, mais pour la proportion de liquide/sucre, c'est typiquement 1 ⅓ tasse)
