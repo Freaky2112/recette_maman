@@ -45,3 +45,4 @@ steps:
   - Dès la sortie du four, renverser délicatement le gâteau sur une assiette de service pour que les ananas se retrouvent sur le dessus.
 notes:
   - la numérisation indique 1/3, mais pour la proportion de liquide/sucre, c'est typiquement 1 ⅓ tasse)
+---

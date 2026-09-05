@@ -31,3 +31,4 @@ steps:
   - Le sirop de finition : Verser le jus de citron dans un bol allant au micro-ondes. Ajouter le reste du sucre (1/4 de tasse) et cuire au micro-ondes, à découvert, à puissance moyenne-élevée pendant 1 minute jusqu'à ce que le mélange soit chaud et sirupeux.
   - Finition : Verser ce sirop chaud sur le cake. Laisser refroidir au moins 30 minutes avant de servir.
   - Plat de cuisson : Moule à pain de 30 x 11 x 7 cm ou 24 x 13 x 7cm
+---
