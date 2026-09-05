@@ -3,7 +3,7 @@ layout: recipe
 title: "Gâteau aux Épices Gourmet"
 description: "Gâteau aux Épices Gourmet"
 category: "Desserts"
-emoji: ":)"
+emoji: "🍰"
 date: 2026-07-18
 prep_time: "20 min"
 cook_time: "35 à 60 min"

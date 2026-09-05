@@ -3,7 +3,7 @@ layout: recipe
 title: "Gâteau renversé à l'ananas"
 description: "Gâteau renversé à l'ananas..."
 category: "Desserts"
-emoji: ":)"
+emoji: "🍍"
 date: 2026-07-11
 prep_time: "20 min"
 cook_time: "45 min"

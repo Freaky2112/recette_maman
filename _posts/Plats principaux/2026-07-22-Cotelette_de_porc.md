@@ -3,7 +3,7 @@ layout: recipe
 title: "Cotelettes de Porc Orzo a la Creme et aus Champignons"
 description: "Cotelettes de Porc Orzo a la Creme et aus Champignons"
 category: "Plats principaux"
-emoji: ":)"
+emoji: "🥩"
 date: 2026-07-22
 prep_time: "10 min"
 cook_time: "30 min"
