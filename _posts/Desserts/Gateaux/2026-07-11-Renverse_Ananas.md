@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: "Gâteau renversé à l'ananas"
-description: "Gâteau renversé à l'ananas"
+description: "Gâteau renversé à l'ananas..."
 category: "Desserts"
 emoji: ":)"
 date: 2026-07-11

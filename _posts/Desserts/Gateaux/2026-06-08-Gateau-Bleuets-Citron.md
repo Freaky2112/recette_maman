@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: "Cake aux Bleuets et Citron"
-description: "Cake aux Bleuets et Citron"
+description: "Cake aux Bleuets et Citron..."
 category: "Dessert"
 emoji: ":)"
 date: 2026-06-08
