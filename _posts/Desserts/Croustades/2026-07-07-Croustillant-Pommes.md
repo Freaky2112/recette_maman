@@ -3,7 +3,7 @@ layout: recipe
 title: "Croustillant aux Pommes"
 description: "Croustillant aux Pommes"
 category: "Desserts"
-emoji: ":)"
+emoji: "🍎"
 date: 2026-07-07
 prep_time: "20 min"
 cook_time: "4 h"

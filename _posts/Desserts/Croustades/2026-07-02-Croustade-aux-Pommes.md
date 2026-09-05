@@ -3,7 +3,7 @@ layout: recipe
 title: "Croustade aux Pommes"
 description: "Croustade aux pommes simple et délicieuse. Régalez-vous."
 category: "Desserts"
-emoji: ":)"
+emoji: "🍎"
 date: 2026-07-02
 prep_time: "10 min"
 cook_time: "30 - 35 min"

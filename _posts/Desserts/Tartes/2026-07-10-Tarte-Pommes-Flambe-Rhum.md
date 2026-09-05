@@ -3,7 +3,7 @@ layout: recipe
 title: "Tarte aux Pommes Flambée au Rhum"
 description: "Tarte aux Pommes Flambée au Rhum"
 category: "Desserts"
-emoji: ":)"
+emoji: "🍎"
 date: 2026-07-10
 prep_time: "2 min"
 cook_time: ""
