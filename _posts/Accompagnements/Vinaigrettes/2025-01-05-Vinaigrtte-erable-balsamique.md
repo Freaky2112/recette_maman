@@ -3,7 +3,7 @@ layout: recipe
 title: "Vinaigrette érable et balsamique"
 description: "Vinaigrette érable et balsamique"
 category: "Accompagnements"
-emoji: ":)"
+emoji: "🍁"
 date: 2025-01-05
 prep_time: "5 min"
 cook_time: "0"

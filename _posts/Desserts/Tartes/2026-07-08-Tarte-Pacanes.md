@@ -3,7 +3,7 @@ layout: recipe
 title: "Tarte aux Pacanes"
 description: "Tarte aux Pacanes"
 category: "Desserts"
-emoji: ":)"
+emoji: "🥧"
 date: 2026-07-08
 prep_time: "10 min"
 cook_time: "45 min"

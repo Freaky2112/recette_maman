@@ -3,7 +3,7 @@ layout: recipe
 title: "Trempette de maïs à la Cajun"
 description: "Trempette de maïs à la Cajun (Mijoteuse)"
 category: "Accompagnements"
-emoji: ":)"
+emoji: "🌽 "
 date: 2025-02-04
 prep_time: "20 min"
 cook_time: "2 h"
