@@ -3,7 +3,7 @@ layout: recipe
 title: "Macaroni au fromage"
 description: "Macaroni au fromage (Kraft Dinner)"
 category: "Plats principaux"
-emoji: ":)"
+emoji: "🧀"
 date: 2025-01-30
 prep_time: "10 min"
 cook_time: "15 min"

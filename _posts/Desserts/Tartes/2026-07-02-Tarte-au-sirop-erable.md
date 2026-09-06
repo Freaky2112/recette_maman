@@ -3,7 +3,7 @@ layout: recipe
 title: "Tarte au Sirop d'Érable"
 description: "Tarte au Sirop d'Érable (La Meilleure)"
 category: "Desserts"
-emoji: ":)"
+emoji: "🍁"
 date: 2026-07-02
 prep_time: "25 min"
 cook_time: "45 min"

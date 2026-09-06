@@ -3,7 +3,7 @@ layout: recipe
 title: "Saumon en croûte d'érable au bacon"
 description: "Saumon en croûte d'érable au bacon"
 category: "Plats principaux"
-emoji: ":)"
+emoji: "🐟"
 date: 2025-01-28
 prep_time: "45 min"
 cook_time: "15 min"

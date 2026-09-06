@@ -3,7 +3,7 @@ layout: recipe
 title: "Mousse au Chocolat"
 description: "Mousse au Chocolat"
 category: "Desserts"
-emoji: ":)"
+emoji: "🍫"
 date: 2026-07-04
 prep_time: "20 min"
 cook_time: "30 min"

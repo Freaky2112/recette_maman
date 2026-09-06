@@ -3,7 +3,7 @@ layout: recipe
 title: "Gâteau Froid Graham"
 description: "Gâteau Froid aux Biscuits Graham"
 category: "Desserts"
-emoji: ":)"
+emoji: "🍫"
 date: 2026-07-05
 prep_time: "20 min"
 cook_time: ""

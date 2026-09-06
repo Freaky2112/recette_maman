@@ -3,7 +3,7 @@ layout: recipe
 title: "Poulet aux amandes"
 description: "Poulet aux amandes"
 category: "Plats principaux"
-emoji: ":)"
+emoji: "🍗"
 date: 2025-02-02
 prep_time: "15 min"
 cook_time: "6 - 10 min"

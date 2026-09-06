@@ -3,7 +3,7 @@ layout: recipe
 title: "Cake aux Bleuets et Citron"
 description: "Cake aux Bleuets et Citron..."
 category: "Dessert"
-emoji: ":)"
+emoji: "🫐"
 date: 2026-06-08
 prep_time: "15 min"
 cook_time: "1 h 15 min"

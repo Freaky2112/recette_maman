@@ -3,7 +3,7 @@ layout: recipe
 title: "Boulettes de veau Parmigiana"
 description: "Boulettes de veau Parmigiana"
 category: "Plats principaux"
-emoji: ":)"
+emoji: "🧆"
 date: 2025-01-29
 prep_time: "25 min"
 cook_time: "5 h"

@@ -3,7 +3,7 @@ layout: recipe
 title: "Rôti de bœuf classique"
 description: "Rôti de bœuf classique"
 category: "Plats principaux"
-emoji: ":)"
+emoji: "🥩"
 date: 2025-02-01
 prep_time: "5 min"
 cook_time: "17 min / lbs"

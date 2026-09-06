@@ -3,7 +3,7 @@ layout: recipe
 title: "Tarte à la Rhubarbe et aux Fraises"
 description: "Tarte à la Rhubarbe et aux Fraises"
 category: "Desserts"
-emoji: ":)"
+emoji: "🍓"
 date: 2026-07-03
 prep_time: "30 min"
 cook_time: "1 h 15 min"
