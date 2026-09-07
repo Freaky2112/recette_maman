@@ -13,8 +13,10 @@ tags: [Volaille , Salade]
 ingredients:
   - ( Poulet )
   - 2 blancs de poulet de 200 g 
-  - Poivre, paprika, polenta 
-  - 1 c. à soupe d'huile d'olive 
+  - Poivre
+  - 2.5 ml (1/2 c. à cafe) Paprika
+  - 30 ml (2 c. à soupe) Polenta 
+  - 15 ml (1 c. à soupe) d'huile d'olive 
   - (Salade & Garnitures )
   - 4 tranches de pancetta fumée 
   - 2 gros bocaux de poivrons rouges en conserve 

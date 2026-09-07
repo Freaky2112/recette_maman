@@ -56,6 +56,8 @@ in config.yml
 | **Bouilli de bœuf d'antan**                            |    `:)` |     🍲    |
 | **Macaroni au fromage**                                |    `:)` |     🧀    |
 | **Carpaccio de tomates et concombre**                  |    `:)` |     🍅    |
+
+
 Yakisoba
 Yakisoba → 🍜 instead of a generic food icon
 Macaroni au fromage → 🧀
