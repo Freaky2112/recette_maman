@@ -25,6 +25,12 @@ layout: default
   {% endif %}
 </div>
 
+{% if page.image %}
+<div class="recipe-photo">
+  <img src="{{ page.image | relative_url }}" alt="{{ page.title }}" />
+</div>
+{% endif %}
+
 <div class="recipe-layout">
 
   <aside>
