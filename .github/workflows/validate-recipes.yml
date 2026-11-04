@@ -1,0 +1,35 @@
+name: Valider les recettes
+
+on:
+  pull_request:
+    paths:
+      - "_posts/**"
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install pyyaml
+
+      - name: Valider les recettes ajoutées ou modifiées
+        env:
+          BASE_REF: ${{ github.base_ref }}
+        run: |
+          git -c core.quotepath=false diff --name-only --diff-filter=AM \
+            "origin/$BASE_REF...HEAD" -- '_posts/*.md' > /tmp/changed.txt
+          if [ -s /tmp/changed.txt ]; then
+            xargs -d '\n' python scripts/validate_recipes.py < /tmp/changed.txt
+          else
+            echo "Aucune recette modifiée."
+          fi
