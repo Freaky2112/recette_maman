@@ -1,104 +1,58 @@
-# 🍽️ Mom's Kitchen — Jekyll Recipe Website
+# Recette de Maman
+![Contributions](https://img.shields.io/badge/contributions-welcome-orange.svg)
 
-A warm, rustic recipe website built with Jekyll, ready to deploy on GitHub Pages.
+Une collection de recettes familiales précieuses pour préserver l'héritage culinaire de nos mères et le transmettre aux générations futures.
 
-## 🚀 Quick Setup
+## 🍳 À Propos
 
-### 1. Install Jekyll locally (optional, for previewing)
-```bash
-gem install bundler jekyll
-bundle install
-bundle exec jekyll serve
-```
-Then open `http://localhost:4000` in your browser.
+Le but de ce projet est de sauvegarder et numériser nos meilleures recettes de maman - celles qui sont souvent écrites à la main sur des bouts de papier ou des photocopies, avec des traces d'usure parce qu'elles ont trop servi. Ces recettes représentent non seulement des instructions culinaires, mais aussi des souvenirs, des traditions familiales et l'amour transmis à travers la nourriture.
 
-### 2. Deploy to GitHub Pages
+## 🎯 Objectif
 
-1. Create a new repository on GitHub (e.g. `yourusername.github.io` or `moms-recipes`)
-2. Push this folder to that repo:
-   ```bash
-   git init
-   git add .
-   git commit -m "Initial commit — Mom's Kitchen 🍲"
-   git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO.git
-   git push -u origin main
-   ```
-3. Go to your repo → **Settings → Pages**
-4. Under **Source**, choose **GitHub Actions**
-5. The site will auto-deploy! 🎉
+- Préserver les recettes familiales pour les générations futures
+- Numériser les recettes manuscrites avant qu'elles ne se perdent
+- Créer un recueil accessible et partageable
+- Célébrer l'héritage culinaire de nos mères
 
-Your site will be live at: `https://YOUR_USERNAME.github.io/YOUR_REPO/`
 
----
+## 🤝 Contributions
 
-## 📝 Adding a New Recipe
+**J'attends vos meilleures recettes de Maman!**
 
-Create a new file in `_posts/` following this naming format:
+Vous êtes encouragés à contribuer en ajoutant vos propres recettes familiales. Que ce soit:
+- La tourtière de Noël
+- Le ragoût de pattes de cochon
+- Les beignes du dimanche matin
+- La tarte au sucre
+- Le pâté chinois familial
+- Ou toute autre recette qui vous rappelle votre enfance
 
-```
-_posts/YYYY-MM-DD-recipe-name.md
-```
+### Comment Contribuer
 
-Copy this template:
+1. **Fork** ce repository
+2. Créez une branche pour votre recette (`git checkout -b recette/nom-du-plat`)
+3. Ajoutez votre recette en format Markdown
+4. SVP Referer vous a ![CONTRIBUTING.md](https://github.com/Freaky2112/recette_maman/CONTRIBUTING.md)
+5. **Commit** vos changements (`git commit -m 'Ajout: [Nom de la recette]'`)
+6. **Push** vers votre branche (`git push origin recette/nom-du-plat`)
+7. Ouvrez une **Pull Request**
 
-```yaml
----
-layout: recipe
-title: "Your Recipe Title"
-description: "A short, mouth-watering description."
-category: "Desserts"        # Breakfast | Soups & Stews | Mains | Sides | Desserts | Baking | Drinks
-emoji: "🍰"                 # Shown when there's no image
-date: 2024-01-01
-prep_time: "15 min"
-cook_time: "30 min"
-servings: 4
-difficulty: Easy            # Easy | Medium | Hard
-ingredients:
-  - 2 cups flour
-  - 1 cup sugar
-  - ...
-steps:
-  - Step one instructions here.
-  - Step two instructions here.
-notes: "Optional tip or memory from Mom."
----
-```
+## 💝 L'Esprit du Projet
 
-### Adding a photo
-Put your image in `assets/images/` and add to the front matter:
-```yaml
-image: /assets/images/my-recipe-photo.jpg
-```
+Ce projet célèbre l'amour maternel exprimé à travers la cuisine. Chaque tache de sauce sur une recette manuscrite, chaque annotation dans la marge, chaque pliure du papier raconte une histoire. En numérisant ces trésors, nous préservons non seulement des instructions culinaires, mais aussi une partie de notre histoire familiale.
+
+## 📜 Licence
+
+CCO: Creative Commons pour le partage de contenu culturel
+
+## 🙏 Remerciements
+
+Merci à toutes les mamans et grand-mamans qui ont pris le temps d'écrire leurs recettes et de transmettre leur savoir-faire culinaire. Ce projet est dédié à leur amour et leur générosité.
 
 ---
 
-## 🗂 Site Structure
-
-```
-moms-recipes/
-├── _config.yml          # Site settings
-├── _layouts/
-│   ├── default.html     # Main layout (header + footer)
-│   └── recipe.html      # Recipe page layout
-├── _includes/
-│   ├── header.html
-│   ├── footer.html
-│   └── recipe-card.html
-├── _posts/              # ← Your recipes go here!
-├── assets/
-│   ├── css/main.scss    # All styles
-│   └── js/main.js       # Category filter
-├── index.html           # Homepage
-├── recipes.html         # All recipes listing
-├── about.md             # About page
-└── Gemfile
-```
-
+![GitHub last commit](https://img.shields.io/github/last-commit/Freaky2112/recette_maman)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Freaky2112/recette_maman?color=purple)
 ---
 
-## ✏️ Customization
-
-- **Site title & description**: Edit `_config.yml`
-- **Colors & fonts**: Edit `assets/css/main.scss` (CSS variables at the top)
-- **Categories**: Add/remove from `category_list` in `_config.yml`
-- **About page**: Edit `about.md`
+*"Les meilleures recettes sont celles qui ont des taches de sauce et des coins cornés - elles ont été aimées et utilisées."*
