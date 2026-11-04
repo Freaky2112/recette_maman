@@ -857,7 +857,7 @@ a:hover { color: var(--brown); }
 
 .recipe-photo {
   max-width: 900px;
-  margin: 2rem auto 0;
+  margin: 0 auto 2rem;
   padding: 0 2rem;
 }
 .recipe-photo img {
