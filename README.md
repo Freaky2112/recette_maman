@@ -32,7 +32,7 @@ Vous êtes encouragés à contribuer en ajoutant vos propres recettes familiales
 1. **Fork** ce repository
 2. Créez une branche pour votre recette (`git checkout -b recette/nom-du-plat`)
 3. Ajoutez votre recette en format Markdown
-4. SVP Referer vous a ![CONTRIBUTING.md](https://github.com/Freaky2112/recette_maman/CONTRIBUTING.md)
+4. SVP Referer vous a ![CONTRIBUTING.md](https://github.com/Freaky2112/recette_maman/blob/main/CONTRIBUTING.md)
 5. **Commit** vos changements (`git commit -m 'Ajout: [Nom de la recette]'`)
 6. **Push** vers votre branche (`git push origin recette/nom-du-plat`)
 7. Ouvrez une **Pull Request**
