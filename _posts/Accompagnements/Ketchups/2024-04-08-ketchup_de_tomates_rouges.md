@@ -4,7 +4,7 @@ title: "Ketchup de Tomates Rouges"
 description: "KETCHUP Maison Delicieux"
 category: "Accompagnements"
 emoji: "🥫"
-image: /assets/images/tarte-pommes.jpg
+image: /assets/images/ketchup.jpg
 date: 2024-01-15
 prep_time: "20 min"
 cook_time: "4 h"
